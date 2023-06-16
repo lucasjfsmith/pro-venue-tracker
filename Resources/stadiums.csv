@@ -1,0 +1,152 @@
+﻿Team,League,Division,Lat,Long
+Dallas Mavericks,NBA,West,32.790556,-96.810278
+Orlando Magic,NBA,East,28.539167,-81.383611
+San Antonio Spurs,NBA,West,29.426944,-98.4375
+Denver Nuggets,NBA,West,39.74892,-105.0084
+Brooklyn Nets,NBA,East,40.682661,-73.975225
+Washington Wizards,NBA,East,38.8982,-77.0209
+Golden State Warriors,NBA,West,37.768056,-122.3875
+Los Angeles Clippers,NBA,West,34.043056,-118.267222
+Los Angeles Lakers,NBA,West,34.043056,-118.267222
+Memphis Grizzlies,NBA,West,35.138333,-90.050556
+Milwaukee Bucks,NBA,East,43.045028,-87.918167
+Phoenix Suns,NBA,West,33.445833,-112.071389
+Miami Heat,NBA,East,25.781389,-80.188056
+Indiana Pacers,NBA,East,39.763889,-86.155556
+Sacremento Kings,NBA,West,38.580361,-121.499611
+Detroit Pistons,NBA,East,42.341111,-83.055
+New York Knicks,NBA,East,40.750556,-73.993611
+Portland Trail Blazers,NBA,West,45.531667,-122.666667
+Oklahoma City Thunder,NBA,West,35.463333,-97.515
+Cleveland Cavaliers,NBA,East,41.496389,-81.688056
+Toronto Raptors,NBA,East,43.643333,-79.379167
+New Orleans Pelicans,NBA,West,29.948889,-90.081944
+Charlotte Hornets,NBA,East,35.225,-80.839167
+Atlanta Hawks,NBA,East,33.757222,-84.396389
+Minnesota Timberwolves,NBA,West,44.9795,-93.2761
+Boston Celtics,NBA,East,42.366303,-71.062228
+Houston Rockets,NBA,West,29.750833,-95.362222
+Chicago Bulls,NBA,East,41.880556,-87.674167
+Utah Jazz,NBA,West,40.768333,-111.901111
+Philadelphia 76ers,NBA,East,39.901111,-75.171944
+Las Vegas Raiders,NFL,AFC West,36.090833,-115.183611
+Kansas City Cheifs,NFL,AFC West,39.048889,-94.483889
+Dallas Cowboys,NFL,NFC East,32.747778,-97.092778
+Carolina Panthers,NFL,NFC South,35.225833,-80.852778
+New Orleans Saints,NFL,NFC South,29.950833,-90.081111
+Denver Broncos,NFL,AFC West,39.7439,-105.0201
+Washington Football Team,NFL,NFC East,38.907778,-76.864444
+Cleveland Browns,NFL,AFC North,41.506111,-81.699444
+Detroit Lions,NFL,NFC North,42.34,-83.045556
+New England Patriots,NFL,AFC East,42.091,-71.264
+Miami Dolphins,NFL,AFC East,25.958056,-80.238889
+Pittsburgh Steelers,NFL,AFC North,40.446667,-80.015833
+Buffalo Bills,NFL,AFC East,42.774,-78.787
+Green Bay Packers,NFL,NFC North,44.501389,-88.062222
+San Francisco 49ers,NFL,NFC West,37.403,-121.97
+Philadelphia Eagles,NFL,NFC East,39.900833,-75.1675
+Indianapolis Colts,NFL,AFC South,39.760056,-86.163806
+Seattle Seahawks,NFL,NFC West,47.5952,-122.3316
+Baltimore Ravens,NFL,AFC North,39.278056,-76.622778
+Atlanta Falcons,NFL,NFC South,33.755556,-84.4
+New York Giants,NFL,NFC East,40.813528,-74.074361
+New York Jets,NFL,AFC East,40.813528,-74.074361
+Tennessee Titans,NFL,AFC South,36.166389,-86.771389
+Houston Texans,NFL,AFC South,29.684722,-95.410833
+Cincinnati Bengals,NFL,AFC North,39.095,-84.516
+Tampa Bay Buccaneers,NFL,NFC South,27.975833,-82.503333
+Los Angeles Rams,NFL,NFC West,33.95345,-118.3392
+Los Angeles Chargers,NFL,AFC West,33.95345,-118.3392
+Chicago Bears,NFL,NFC North,41.8623,-87.6167
+Arizona Cardinals,NFL,NFC West,33.528,-112.263
+Jacksonville Jaguars,NFL,AFC South,30.323889,-81.6375
+Minnesota Vikings,NFL,NFC North,44.974,-93.258
+Tampa Bay Lightning,NHL,Atlantic,27.9427,-82.4518
+Dallas Stars,NHL,Central,32.790556,-96.810278
+Colorado Avalanche,NHL,Central,39.7487,-105.0076
+Montreal Canadiens,NHL,Atlantic,45.496111,-73.569444
+Nashville Predators,NHL,Central,36.159167,-86.778611
+Winnipeg Jets,NHL,Central,49.892778,-97.143611
+Ottawa Senators,NHL,Atlantic,45.2969,-75.9268
+Washington Capitals,NHL,Metropolitan,38.8982,-77.0209
+Seattle Kraken,NHL,Pacific,47.622,-122.354
+Los Angeles Kings,NHL,Pacific,34.043056,-118.267222
+St. Louis Blues,NHL,Central,38.626667,-90.2025
+Flordia Panthers,NHL,Atlantic,26.158333,-80.325556
+Arizona Coyotes,NHL,Central,33.5321,-112.2612
+Anaheim Ducks,NHL,Pacific,33.807778,-117.876667
+Buffalo Sabres,NHL,Atlantic,42.875,-78.876389
+Detroit Red Wings,NHL,Atlantic,42.341111,-83.055
+New York Rangers,NHL,Metropolitan,40.750556,-73.993611
+Columbus Blue Jackets,NHL,Metropolitan,39.969283,-83.006111
+Carolina Hurricanes,NHL,Metropolitan,35.803333,-78.721944
+Pittsburgh Penguins,NHL,Metropolitan,40.439444,-79.989167
+New Jersey Devils,NHL,Metropolitan,40.733611,-74.171111
+Vancouver Canucks,NHL,Pacific,49.277778,-123.108889
+Edmonton Oilers,NHL,Pacific,53.546944,-113.497778
+San Jose Sharks,NHL,Pacific,37.332778,-121.901111
+Toronto Maple Leafs,NHL,Atlantic,43.643333,-79.379167
+Calgary Flames,NHL,Pacific,51.0374,-114.0519
+Boston Bruins,NHL,Atlantic,42.366303,-71.062228
+Vegas Golden Knights,NHL,Pacific,36.102778,-115.178333
+New York Islanders,NHL,Metropolitan,40.712094,-73.727157
+Chicago Blackhawks,NHL,Central,41.880556,-87.674167
+Philadeliphia Flyers,NHL,Metropolitan,39.901111,-75.171944
+Minnesota Wild,NHL,Central,44.944722,-93.101111
+Milwaukee Brewers,MLB,NL Central,43.028333,-87.971111
+Los Angeles Angles,MLB,AL West,33.800278,-117.882778
+St. Louis Cardinals,MLB,NL Central,38.6225,-90.193056
+Arizona Diamondbacks,MLB,NL West,33.445278,-112.066944
+New York Mets,MLB,NL East,40.756944,-73.845833
+Philadelphia Phillies,MLB,NL East,39.905833,-75.166389
+Detroit Tigers,MLB,AL Central,42.339167,-83.048611
+Colorado Rockies,MLB,NL West,39.756111,-104.994167
+Los Angeles Dodgers,MLB,NL West,34.073611,-118.24
+Boston Red Sox,MLB,AL East,42.34625,-71.09775
+Texas Rangers,MLB,AL West,32.747361,-97.084167
+Cincinnati Reds,MLB,NL Central,39.0975,-84.506667
+Chicago White Sox,MLB,AL Central,41.83,-87.633889
+Kansas City Royals,MLB,AL Central,39.051,-94.48
+Miami Marlins,MLB,NL East,25.778056,-80.219722
+Houston Astros,MLB,AL West,29.756944,-95.355556
+Washington Nationals,MLB,NL East,38.872778,-77.0075
+Oakland Athletics,MLB,AL West,37.751667,-122.200556
+San Francisco Giants,MLB,NL West,37.778611,-122.389167
+Baltimore Orioles,MLB,AL East,39.283889,-76.621667
+San Diego Padres,MLB,NL West,32.7073,-117.1566
+Pittsburgh Pirates,MLB,NL Central,40.446944,-80.005833
+Cleveland Guadians,MLB,AL Central,41.495833,-81.685278
+Toronto Blue Jays,MLB,AL East,43.641389,-79.389167
+Seattle Mariners,MLB,AL West,47.591,-122.333
+Minnesota Twins,MLB,AL Central,44.981667,-93.278333
+Tampa Bay Rays,MLB,AL East,27.768333,-82.653333
+Atlanta Braves,MLB,NL East,33.89,-84.468
+Chicago Cubs,MLB,NL Central,41.948056,-87.655556
+New York Yankees,MLB,AL East,40.829167,-73.926389
+Minnesota United FC,MLS,Western Conference,44.952778,-93.165
+D.C. United,MLS,Eastern Conference,38.868333,-77.012222
+Los Angeles FC,MLS,Western Conference,34.013056,-118.285
+Vancouver Whitecaps FC,MLS,Western Conference,49.276667,-123.111944
+Toronto FC,MLS,Eastern Conference,43.632778,-79.418611
+Sporting Kansas City,MLS,Western Conference,39.1218,-94.8237
+Colorado Rapids,MLS,Western Conference,39.805556,-104.891944
+LA Galaxy,MLS,Western Conference,33.864444,-118.261111
+Inter Miami CF,MLS,Eastern Conference,26.193056,-80.161111
+Orlando City SC,MLS,Eastern Conference,28.624397,-81.389036
+New England Revolution,MLS,Eastern Conference,42.090944,-71.264344
+Columbus Crew,MLS,Eastern Conference,39.968461,-83.017089
+Seattle Sounders FC,MLS,Western Conference,47.5952,-122.3316
+Atlanta United FC,MLS,Eastern Conference,33.755361,-84.401192
+Nashville SC,MLS,Eastern Conference,36.166389,-86.771389
+San Jose Earthquakes,MLS,Western Conference,37.351389,-121.925
+Houston Dynamo FC,MLS,Western Conference,29.7522,-95.3524
+Portland Timbers,MLS,Western Conference,45.521389,-122.691667
+Austin FC,MLS,Western Conference,30.388206,-97.719864
+New York Red Bulls,MLS,Eastern Conference,40.736667,-74.150278
+Real Salt Lake,MLS,Western Conference,40.582923,-111.893156
+CF Montréal,MLS,Eastern Conference,45.563056,-73.5525
+Chicago Fire FC,MLS,Eastern Conference,41.8623,-87.6167
+Philadelphia Union,MLS,Eastern Conference,39.832222,-75.378889
+FC Dallas,MLS,Western Conference,33.154444,-96.835278
+FC Cincinnati,MLS,Eastern Conference,39.111389,-84.522222
+New York City FC,MLS,Eastern Conference,40.829167,-73.926389
