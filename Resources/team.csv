@@ -1,152 +1,152 @@
-,team_id,Team,venue_id,league_id
-0,1,Dallas Mavericks,1,1
-1,2,Orlando Magic,2,1
-2,3,San Antonio Spurs,3,1
-3,4,Denver Nuggets,4,1
-4,5,Brooklyn Nets,5,1
-5,6,Washington Wizards,6,1
-6,7,Golden State Warriors,7,1
-7,8,Los Angeles Clippers,8,1
-8,9,Los Angeles Lakers,8,1
-9,10,Memphis Grizzlies,9,1
-10,11,Milwaukee Bucks,10,1
-11,12,Phoenix Suns,11,1
-12,13,Miami Heat,12,1
-13,14,Indiana Pacers,13,1
-14,15,Sacremento Kings,14,1
-15,16,Detroit Pistons,15,1
-16,17,New York Knicks,16,1
-17,18,Portland Trail Blazers,17,1
-18,19,Oklahoma City Thunder,18,1
-19,20,Cleveland Cavaliers,19,1
-20,21,Toronto Raptors,20,1
-21,22,New Orleans Pelicans,21,1
-22,23,Charlotte Hornets,22,1
-23,24,Atlanta Hawks,23,1
-24,25,Minnesota Timberwolves,24,1
-25,26,Boston Celtics,25,1
-26,27,Houston Rockets,26,1
-27,28,Chicago Bulls,27,1
-28,29,Utah Jazz,28,1
-29,30,Philadelphia 76ers,29,1
-30,31,Las Vegas Raiders,30,2
-31,32,Kansas City Cheifs,31,2
-32,33,Dallas Cowboys,32,2
-33,34,Carolina Panthers,33,2
-34,35,New Orleans Saints,34,2
-35,36,Denver Broncos,35,2
-36,37,Washington Football Team,36,2
-37,38,Cleveland Browns,37,2
-38,39,Detroit Lions,38,2
-39,40,New England Patriots,39,2
-40,41,Miami Dolphins,40,2
-41,42,Pittsburgh Steelers,41,2
-42,43,Buffalo Bills,42,2
-43,44,Green Bay Packers,43,2
-44,45,San Francisco 49ers,44,2
-45,46,Philadelphia Eagles,45,2
-46,47,Indianapolis Colts,46,2
-47,48,Seattle Seahawks,47,2
-48,49,Baltimore Ravens,48,2
-49,50,Atlanta Falcons,49,2
-50,51,New York Giants,50,2
-51,52,New York Jets,50,2
-52,53,Tennessee Titans,51,2
-53,54,Houston Texans,52,2
-54,55,Cincinnati Bengals,53,2
-55,56,Tampa Bay Buccaneers,54,2
-56,57,Los Angeles Rams,55,2
-57,58,Los Angeles Chargers,55,2
-58,59,Chicago Bears,56,2
-59,60,Arizona Cardinals,57,2
-60,61,Jacksonville Jaguars,58,2
-61,62,Minnesota Vikings,59,2
-62,63,Tampa Bay Lightning,60,3
-63,64,Dallas Stars,1,3
-64,65,Colorado Avalanche,4,3
-65,66,Montreal Canadiens,61,3
-66,67,Nashville Predators,62,3
-67,68,Winnipeg Jets,63,3
-68,69,Ottawa Senators,64,3
-69,70,Washington Capitals,6,3
-70,71,Seattle Kraken,65,3
-71,72,Los Angeles Kings,8,3
-72,73,St. Louis Blues,66,3
-73,74,Flordia Panthers,67,3
-74,75,Arizona Coyotes,68,3
-75,76,Anaheim Ducks,69,3
-76,77,Buffalo Sabres,70,3
-77,78,Detroit Red Wings,15,3
-78,79,New York Rangers,16,3
-79,80,Columbus Blue Jackets,71,3
-80,81,Carolina Hurricanes,72,3
-81,82,Pittsburgh Penguins,73,3
-82,83,New Jersey Devils,74,3
-83,84,Vancouver Canucks,75,3
-84,85,Edmonton Oilers,76,3
-85,86,San Jose Sharks,77,3
-86,87,Toronto Maple Leafs,20,3
-87,88,Calgary Flames,78,3
-88,89,Boston Bruins,25,3
-89,90,Vegas Golden Knights,79,3
-90,91,New York Islanders,80,3
-91,92,Chicago Blackhawks,27,3
-92,93,Philadeliphia Flyers,29,3
-93,94,Minnesota Wild,81,3
-94,95,Milwaukee Brewers,82,4
-95,96,Los Angeles Angles,83,4
-96,97,St. Louis Cardinals,84,4
-97,98,Arizona Diamondbacks,85,4
-98,99,New York Mets,86,4
-99,100,Philadelphia Phillies,87,4
-100,101,Detroit Tigers,88,4
-101,102,Colorado Rockies,89,4
-102,103,Los Angeles Dodgers,90,4
-103,104,Boston Red Sox,91,4
-104,105,Texas Rangers,92,4
-105,106,Cincinnati Reds,93,4
-106,107,Chicago White Sox,94,4
-107,108,Kansas City Royals,95,4
-108,109,Miami Marlins,96,4
-109,110,Houston Astros,97,4
-110,111,Washington Nationals,98,4
-111,112,Oakland Athletics,99,4
-112,113,San Francisco Giants,100,4
-113,114,Baltimore Orioles,101,4
-114,115,San Diego Padres,102,4
-115,116,Pittsburgh Pirates,103,4
-116,117,Cleveland Guadians,104,4
-117,118,Toronto Blue Jays,105,4
-118,119,Seattle Mariners,106,4
-119,120,Minnesota Twins,107,4
-120,121,Tampa Bay Rays,108,4
-121,122,Atlanta Braves,109,4
-122,123,Chicago Cubs,110,4
-123,124,New York Yankees,111,4
-124,125,Minnesota United FC,112,5
-125,126,D.C. United,113,5
-126,127,Los Angeles FC,114,5
-127,128,Vancouver Whitecaps FC,115,5
-128,129,Toronto FC,116,5
-129,130,Sporting Kansas City,117,5
-130,131,Colorado Rapids,118,5
-131,132,LA Galaxy,119,5
-132,133,Inter Miami CF,120,5
-133,134,Orlando City SC,121,5
-134,135,New England Revolution,39,5
-135,136,Columbus Crew,122,5
-136,137,Seattle Sounders FC,47,5
-137,138,Atlanta United FC,49,5
-138,139,Nashville SC,51,5
-139,140,San Jose Earthquakes,123,5
-140,141,Houston Dynamo FC,124,5
-141,142,Portland Timbers,125,5
-142,143,Austin FC,126,5
-143,144,New York Red Bulls,127,5
-144,145,Real Salt Lake,128,5
-145,146,CF Montréal,129,5
-146,147,Chicago Fire FC,56,5
-147,148,Philadelphia Union,130,5
-148,149,FC Dallas,131,5
-149,150,FC Cincinnati,132,5
-150,151,New York City FC,111,5
+team_id,team,venue_id,league_id
+1,Dallas Mavericks,1,1
+2,Orlando Magic,2,1
+3,San Antonio Spurs,3,1
+4,Denver Nuggets,4,1
+5,Brooklyn Nets,5,1
+6,Washington Wizards,6,1
+7,Golden State Warriors,7,1
+8,Los Angeles Clippers,8,1
+9,Los Angeles Lakers,8,1
+10,Memphis Grizzlies,9,1
+11,Milwaukee Bucks,10,1
+12,Phoenix Suns,11,1
+13,Miami Heat,12,1
+14,Indiana Pacers,13,1
+15,Sacremento Kings,14,1
+16,Detroit Pistons,15,1
+17,New York Knicks,16,1
+18,Portland Trail Blazers,17,1
+19,Oklahoma City Thunder,18,1
+20,Cleveland Cavaliers,19,1
+21,Toronto Raptors,20,1
+22,New Orleans Pelicans,21,1
+23,Charlotte Hornets,22,1
+24,Atlanta Hawks,23,1
+25,Minnesota Timberwolves,24,1
+26,Boston Celtics,25,1
+27,Houston Rockets,26,1
+28,Chicago Bulls,27,1
+29,Utah Jazz,28,1
+30,Philadelphia 76ers,29,1
+31,Las Vegas Raiders,30,2
+32,Kansas City Cheifs,31,2
+33,Dallas Cowboys,32,2
+34,Carolina Panthers,33,2
+35,New Orleans Saints,34,2
+36,Denver Broncos,35,2
+37,Washington Football Team,36,2
+38,Cleveland Browns,37,2
+39,Detroit Lions,38,2
+40,New England Patriots,39,2
+41,Miami Dolphins,40,2
+42,Pittsburgh Steelers,41,2
+43,Buffalo Bills,42,2
+44,Green Bay Packers,43,2
+45,San Francisco 49ers,44,2
+46,Philadelphia Eagles,45,2
+47,Indianapolis Colts,46,2
+48,Seattle Seahawks,47,2
+49,Baltimore Ravens,48,2
+50,Atlanta Falcons,49,2
+51,New York Giants,50,2
+52,New York Jets,50,2
+53,Tennessee Titans,51,2
+54,Houston Texans,52,2
+55,Cincinnati Bengals,53,2
+56,Tampa Bay Buccaneers,54,2
+57,Los Angeles Rams,55,2
+58,Los Angeles Chargers,55,2
+59,Chicago Bears,56,2
+60,Arizona Cardinals,57,2
+61,Jacksonville Jaguars,58,2
+62,Minnesota Vikings,59,2
+63,Tampa Bay Lightning,60,3
+64,Dallas Stars,1,3
+65,Colorado Avalanche,4,3
+66,Montreal Canadiens,61,3
+67,Nashville Predators,62,3
+68,Winnipeg Jets,63,3
+69,Ottawa Senators,64,3
+70,Washington Capitals,6,3
+71,Seattle Kraken,65,3
+72,Los Angeles Kings,8,3
+73,St. Louis Blues,66,3
+74,Flordia Panthers,67,3
+75,Arizona Coyotes,68,3
+76,Anaheim Ducks,69,3
+77,Buffalo Sabres,70,3
+78,Detroit Red Wings,15,3
+79,New York Rangers,16,3
+80,Columbus Blue Jackets,71,3
+81,Carolina Hurricanes,72,3
+82,Pittsburgh Penguins,73,3
+83,New Jersey Devils,74,3
+84,Vancouver Canucks,75,3
+85,Edmonton Oilers,76,3
+86,San Jose Sharks,77,3
+87,Toronto Maple Leafs,20,3
+88,Calgary Flames,78,3
+89,Boston Bruins,25,3
+90,Vegas Golden Knights,79,3
+91,New York Islanders,80,3
+92,Chicago Blackhawks,27,3
+93,Philadeliphia Flyers,29,3
+94,Minnesota Wild,81,3
+95,Milwaukee Brewers,82,4
+96,Los Angeles Angles,83,4
+97,St. Louis Cardinals,84,4
+98,Arizona Diamondbacks,85,4
+99,New York Mets,86,4
+100,Philadelphia Phillies,87,4
+101,Detroit Tigers,88,4
+102,Colorado Rockies,89,4
+103,Los Angeles Dodgers,90,4
+104,Boston Red Sox,91,4
+105,Texas Rangers,92,4
+106,Cincinnati Reds,93,4
+107,Chicago White Sox,94,4
+108,Kansas City Royals,95,4
+109,Miami Marlins,96,4
+110,Houston Astros,97,4
+111,Washington Nationals,98,4
+112,Oakland Athletics,99,4
+113,San Francisco Giants,100,4
+114,Baltimore Orioles,101,4
+115,San Diego Padres,102,4
+116,Pittsburgh Pirates,103,4
+117,Cleveland Guadians,104,4
+118,Toronto Blue Jays,105,4
+119,Seattle Mariners,106,4
+120,Minnesota Twins,107,4
+121,Tampa Bay Rays,108,4
+122,Atlanta Braves,109,4
+123,Chicago Cubs,110,4
+124,New York Yankees,111,4
+125,Minnesota United FC,112,5
+126,D.C. United,113,5
+127,Los Angeles FC,114,5
+128,Vancouver Whitecaps FC,115,5
+129,Toronto FC,116,5
+130,Sporting Kansas City,117,5
+131,Colorado Rapids,118,5
+132,LA Galaxy,119,5
+133,Inter Miami CF,120,5
+134,Orlando City SC,121,5
+135,New England Revolution,39,5
+136,Columbus Crew,122,5
+137,Seattle Sounders FC,47,5
+138,Atlanta United FC,49,5
+139,Nashville SC,51,5
+140,San Jose Earthquakes,123,5
+141,Houston Dynamo FC,124,5
+142,Portland Timbers,125,5
+143,Austin FC,126,5
+144,New York Red Bulls,127,5
+145,Real Salt Lake,128,5
+146,CF Montréal,129,5
+147,Chicago Fire FC,56,5
+148,Philadelphia Union,130,5
+149,FC Dallas,131,5
+150,FC Cincinnati,132,5
+151,New York City FC,111,5

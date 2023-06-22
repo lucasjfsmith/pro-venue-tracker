@@ -1,152 +1,133 @@
-,venue_id,Venue Name,Venue City,Venue State,Venue Country,Venue Address,Venue Lat,Venue Lon,Venue Capacity,next_event_id
-0,1,American Airlines Center,Dallas,Texas,us,"2500 Victory Avenue, Dallas, TX 75219, United States of America",32.7905076,-96.81027213460834,,0
-1,2,Amway Center,Orlando,Florida,us,"Hughey Avenue, Orlando, FL 32801, United States of America",28.53927385,-81.38400713924818,,0
-2,3,AT&T Center,San Antonio,Texas,us,"San Antonio, TX 78219, United States of America",29.4270504,-98.43750706398404,,0
-3,4,Ball Arena,Denver,Colorado,us,"1000 Chopper Circle, Denver, CO 80204, United States of America",39.748683799999995,-105.00754401780362,,0
-4,5,Barclays Center,New York,New York,us,"620 Atlantic Avenue, New York, NY 11217, United States of America",40.68251055,-73.97525186658912,,0
-5,6,Capital One Arena,Washington,District of Columbia,us,"601 F Street Northwest, Washington, DC 20004, United States of America",38.8981883,-77.0209377602636,,0
-6,7,Chase Center,San Francisco,California,us,"1 Warriors Way, San Francisco, CA 94158, United States of America",37.767892700000004,-122.38740721330376,18064.0,0
-7,8,Crypto.com Arena,Los Angeles,California,us,"1111 Figueroa Street, Los Angeles, CA 90015, United States of America",34.0430046,-118.26705260279402,,0
-8,8,Crypto.com Arena,Los Angeles,California,us,"1111 Figueroa Street, Los Angeles, CA 90015, United States of America",34.0430046,-118.26705260279402,,0
-9,9,FedExForum,Memphis,Tennessee,us,"191 Beale Street, Memphis, TN 38103, United States of America",35.1382401,-90.05069457768097,,0
-10,10,Fiserv Forum,Milwaukee,Wisconsin,us,"1111 North Vel R. Phillips Avenue, Milwaukee, WI 53203, United States of America",43.04500955,-87.91748710581575,,0
-11,11,Footprint Center,Phoenix,Arizona,us,"East Jefferson Street, Phoenix, AZ 85004, United States of America",33.4460392,-112.07110129629386,,0
-12,12,Miami-Dade Arena,Miami,Florida,us,"601 Biscayne Boulevard, Miami, FL 33132, United States of America",25.781359549999998,-80.18794351626137,19600.0,0
-13,13,Gainbridge Fieldhouse,Indianapolis,Indiana,us,"125 South Pennsylvania Street, Indianapolis, IN 46204, United States of America",39.7639331,-86.15550794973416,,0
-14,14,Golden 1 Center,Sacramento,California,us,"500 L Street, Sacramento, CA 95814, United States of America",38.58014045,-121.49950076409176,,0
-15,15,Little Caesars Arena,Detroit,Michigan,us,"2645 Woodward Avenue, Detroit, MI 48201, United States of America",42.34092995,-83.05516216701272,,0
-16,16,Madison Square Garden,New York,New York,us,"4 Pennsylvania Plaza, New York, NY 10001, United States of America",40.750512900000004,-73.99351594545152,,0
-17,17,Moda Center,Portland,Oregon,us,"North Multnomah Street, Portland, OR 97240, United States of America",45.5315787,-122.66683365218687,,0
-18,18,Paycom Center,Oklahoma City,Oklahoma,us,"100 West Reno Avenue, Oklahoma City, OK 73102, United States of America",35.46339605,-97.51508150130435,,0
-19,19,Rocket Mortgage FieldHouse,Cleveland,Ohio,us,"1 Huron Road East, Cleveland, OH 44115, United States of America",41.4966862,-81.68857538921003,,0
-20,20,Scotiabank Arena,Old Toronto,Ontario,ca,"40 Bay Street, Old Toronto, ON M5J 2J2, Canada",43.64343375,-79.37907772483726,,0
-21,21,Smoothie King Center,New Orleans,Louisiana,us,"2500 Howard Avenue, New Orleans, LA 70012, United States of America",29.94903925,-90.08206899587637,,0
-22,22,Spectrum Center,Charlotte,North Carolina,us,"333 East Trade Street, Charlotte, NC 28202, United States of America",35.225098,-80.83915411814897,,0
-23,23,State Farm Arena,Atlanta,Georgia,us,"1 State Farm Drive, Atlanta, GA 30303, United States of America",33.7573698,-84.39638483503104,,0
-24,24,Target Center,Minneapolis,Minnesota,us,"North 6th Street, Minneapolis, MN 55401, United States of America",44.979512650000004,-93.27609502567992,,0
-25,25,TD Garden,Boston,Massachusetts,us,"100 Legends Way, Boston, MA 02114, United States of America",42.3662986,-71.06216222263835,,0
-26,26,Toyota Center,Houston,Texas,us,"1510 Polk Street, Houston, TX 77010, United States of America",29.75074725,-95.36223151477087,,0
-27,27,United Center,Chicago,Illinois,us,"1901 West Madison Street, Chicago, IL 60612, United States of America",41.88068305,-87.67418510441388,,0
-28,28,Vivint Arena,Salt Lake City,Utah,us,"South Temple, Salt Lake City, UT 84180, United States of America",40.76832735,-111.90105507486473,,0
-29,29,Wells Fargo Center,Philadelphia,Pennsylvania,us,"Zinkoff Boulevard, Philadelphia, PA 19112, United States of America",39.901100400000004,-75.17201654615069,,0
-30,30,Allegiant Stadium,Las Vegas,Nevada,us,"3333 Al Davis Way, Las Vegas, NV 89118, United States of America",36.09083455,-115.18343206671804,65000.0,0
-31,31,Arrowhead Stadium,Kansas City,Missouri,us,"1 Arrowhead Drive, Kansas City, MO 64129, United States of America",39.04894045,-94.48499381102714,,0
-32,32,AT&T Stadium,Arlington,Texas,us,"900 East Randol Mill Road, Arlington, TX 76011, United States of America",32.74785025,-97.09283370737742,,0
-33,33,Bank of America Stadium,Charlotte,North Carolina,us,"800 South Mint Street, Charlotte, NC 28202, United States of America",35.225737,-80.8527666409835,,0
-34,34,Caesar's Superdome,New Orleans,Louisiana,us,"1500 Sugar Bowl Drive, New Orleans, LA 70113, United States of America",29.9510856,-90.08122023028636,,0
-35,35,Empower Field,Denver,Colorado,us,"1701 Mile High Stadium Circle, Denver, CO 80204, United States of America",39.743952,-105.01922281236835,,0
-36,36,FedExField,Landover,Maryland,us,"1600 Sean Taylor Road, Landover, MD 20785, United States of America",38.9077002,-76.86332608690218,,0
-37,37,FirstEnergy Stadium,Cleveland,Ohio,us,"100 Alfred Lerner Way, Cleveland, OH 44113, United States of America",41.5060559,-81.69971184525946,,0
-38,38,Ford Field,Detroit,Michigan,us,"Brush Street, Detroit, MI 48226, United States of America",42.33995675,-83.04561657403696,,0
-39,39,Gillette Stadium,Foxborough,Massachusetts,us,"Patriot Place, Foxborough, MA 02071, United States of America",42.091252600000004,-71.2644646105907,,0
-40,40,Hard Rock Stadium,Lake Lucerne,Florida,us,"105, Lake Lucerne, FL 33056, United States of America",25.95790315,-80.23884973967523,,0
-41,41,Acrisure Stadium,Pittsburgh,Pennsylvania,us,"North Shore Drive, Pittsburgh, PA 15290, United States of America",40.44671645,-80.01575493349428,,0
-42,42,Highmark Blue Cross Blue Shield Stadium,Town of Orchard Park,New York,us,"1 Bills Drive, Orchard Park, NY 14127, United States of America",42.7737131,-78.78690321060253,,0
-43,43,Lambeau Field,Green Bay,Wisconsin,us,"1265 Lombardi Avenue, Green Bay, WI 54304, United States of America",44.50095825,-88.06103404376007,,0
-44,44,Levi’s Stadium,Santa Clara,California,us,"4900 Marie P. DeBartolo Way, Santa Clara, CA 95054, United States of America",37.403158250000004,-121.96983144425579,,0
-45,45,Lincoln Financial Field,Philadelphia,Pennsylvania,us,"South Darien Street, Philadelphia, PA 19148, United States of America",39.9009099,-75.16748915605905,,0
-46,46,Lucas Oil Stadium,Indianapolis,Indiana,us,"West Henry Street, Indianapolis, IN 46225, United States of America",39.7590621,-86.16383761053042,,0
-47,47,Lumen Field,Seattle,Washington,us,"800 Occidental Avenue South, Seattle, WA 98134, United States of America",47.5953459,-122.33164431196111,,0
-48,48,M&T Bank Stadium,Baltimore,Maryland,us,"1101 Russell Street, Baltimore, MD 21230, United States of America",39.2779664,-76.62380930835468,,0
-49,49,Mercedes-Benz Stadium,Atlanta,Georgia,us,"1414 Andrew Young International Boulevard, Atlanta, GA 30313, United States of America",33.7554123,-84.40084932004368,,0
-50,50,MetLife Stadium,East Rutherford,New Jersey,us,"Road D, East Rutherford, NJ 07072, United States of America",40.81352375,-74.07340074891175,,0
-51,50,MetLife Stadium,East Rutherford,New Jersey,us,"Road D, East Rutherford, NJ 07072, United States of America",40.81352375,-74.07340074891175,,0
-52,51,Nissan Stadium,Nashville-Davidson,Tennessee,us,"Victory Avenue, Nashville-Davidson, TN 37213, United States of America",36.16652355,-86.77131480177009,,0
-53,52,NRG Stadium,Houston,Texas,us,"1 NRG Parkway, Houston, TX 77054, United States of America",29.6848581,-95.41080145326987,,0
-54,53,Paycor Stadium,Cincinnati,Ohio,us,"1 West Pete Rose Way, Cincinnati, OH 45203, United States of America",39.0954645,-84.5160488350198,,0
-55,54,Raymond James Stadium,Tampa,Florida,us,"West Tampa Bay Boulevard, Tampa, FL 33607, United States of America",27.97597925,-82.50421799673616,,0
-56,55,SoFi Stadium,Inglewood,California,us,"1001 Champion Drive, Inglewood, CA 90301, United States of America",33.95340735,-118.33900981025587,,0
-57,55,SoFi Stadium,Inglewood,California,us,"1001 Champion Drive, Inglewood, CA 90301, United States of America",33.95340735,-118.33900981025587,,0
-58,56,Soldier Field,Chicago,Illinois,us,"425 East McFetridge Drive, Chicago, IL 60605, United States of America",41.86245145,-87.61671514704074,,0
-59,57,State Farm Stadium,Glendale,Arizona,us,"1 West Cardinals Drive, Glendale, AZ 85305, United States of America",33.52779565,-112.26267190264335,,0
-60,58,TIAA Bank Field,Jacksonville,Florida,us,"1 Gator Bowl Boulevard, Jacksonville, FL 32202, United States of America",30.32398105,-81.63730457034035,,0
-61,59,US Bank Stadium,Minneapolis,Minnesota,us,"401 Chicago Avenue South, Minneapolis, MN 55415, United States of America",44.97361545,-93.25746628273055,,0
-62,60,Amalie Arena,Tampa,Florida,us,"401 Channelside Drive, Tampa, FL 33602, United States of America",27.942704,-82.45189031562487,20000.0,0
-63,1,American Airlines Center,Dallas,Texas,us,"2500 Victory Avenue, Dallas, TX 75219, United States of America",32.7905076,-96.81027213460834,,0
-64,4,Ball Arena,Denver,Colorado,us,"1000 Chopper Circle, Denver, CO 80204, United States of America",39.748683799999995,-105.00754401780362,,0
-65,61,Centre Bell,Montreal,Quebec,ca,"Place des Canadiens, Montreal, QC H3C 1B4, Canada",45.49605985,-73.56922527683774,,0
-66,62,Bridgestone Arena,Nashville-Davidson,Tennessee,us,"501 6th Avenue South, Nashville-Davidson, TN 37203, United States of America",36.1589806,-86.77838189265074,,0
-67,63,Canada Life Centre,Winnipeg,Manitoba,ca,"300 Portage Avenue, Winnipeg, MB R3B 2B9, Canada",49.8925737,-97.1437218346315,,0
-68,64,Canadian Tire Centre,Ottawa,Ontario,ca,"1000 Palladium Drive, Ottawa, ON K2V 1E2, Canada",45.296906899999996,-75.92689732572379,,0
-69,6,Capital One Arena,Washington,District of Columbia,us,"601 F Street Northwest, Washington, DC 20004, United States of America",38.8981883,-77.0209377602636,,0
-70,65,Climate Pledge Arena,Seattle,Washington,us,"334 1st Avenue North, Seattle, WA 98109, United States of America",47.6219014,-122.353990491486,,0
-71,8,Crypto.com Arena,Los Angeles,California,us,"1111 Figueroa Street, Los Angeles, CA 90015, United States of America",34.0430046,-118.26705260279402,,0
-72,66,Enterprise Center,St. Louis,Missouri,us,"1401 Clark Avenue, St. Louis, MO 63103, United States of America",38.62680845,-90.20263932150607,,0
-73,67,FLA Live Arena,Sunrise,Florida,us,"1 Northwest 137th Way, Sunrise, FL 33323, United States of America",26.15837015,-80.3254288749938,,0
-74,68,Gila River Arena,Glendale,Arizona,us,"9400 West Maryland Avenue, Glendale, AZ 85305, United States of America",33.53196065,-112.26124059182274,,0
-75,69,Honda Center,Anaheim,California,us,"2695 East Katella Avenue, Anaheim, CA 92806, United States of America",33.80783155,-117.876533959295,,0
-76,70,KeyBank Center,Buffalo,New York,us,"Washington Street, Buffalo, NY 14203, United States of America",42.87514665,-78.87663585570175,19070.0,0
-77,15,Little Caesars Arena,Detroit,Michigan,us,"2645 Woodward Avenue, Detroit, MI 48201, United States of America",42.34092995,-83.05516216701272,,0
-78,16,Madison Square Garden,New York,New York,us,"4 Pennsylvania Plaza, New York, NY 10001, United States of America",40.750512900000004,-73.99351594545152,,0
-79,71,Nationwide Arena,Columbus,Ohio,us,"200 West Nationwide Boulevard, Columbus, OH 43215, United States of America",39.9691873,-83.00608002061449,,0
-80,72,Carter-Finley Stadium,Raleigh,North Carolina,us,"E. Stephen Stroud Way, Raleigh, NC 27607, United States of America",35.800846449999995,-78.71960451582763,,0
-81,73,PPG Paints Arena,Pittsburgh,Pennsylvania,us,"1001 Fifth Avenue, Pittsburgh, PA 15262, United States of America",40.439621700000004,-79.98950569382804,,0
-82,74,Prudential Center,Newark,New Jersey,us,"25 Lafayette Street, Newark, NJ 07102, United States of America",40.7336045,-74.17106309834053,,0
-83,75,Rogers Arena,Vancouver,British Columbia,ca,"800 Griffiths Way, Vancouver, BC V6B, Canada",49.2779085,-123.10894170979472,,0
-84,76,Rogers Place,Edmonton,Alberta,ca,"10220 104 Avenue NW, Edmonton, AB T5J 4Y8, Canada",53.5467936,-113.49779461115837,20734.0,0
-85,77,SAP Center at San Jose,San Jose,California,us,"525 West Santa Clara Street, San Jose, CA 95113, United States of America",37.33286035,-121.90122465574646,,0
-86,20,Scotiabank Arena,Old Toronto,Ontario,ca,"40 Bay Street, Old Toronto, ON M5J 2J2, Canada",43.64343375,-79.37907772483726,,0
-87,78,Scotiabank Saddledome,Calgary,Alberta,ca,"555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada",51.037412399999994,-114.05196415720093,,0
-88,25,TD Garden,Boston,Massachusetts,us,"100 Legends Way, Boston, MA 02114, United States of America",42.3662986,-71.06216222263835,,0
-89,79,T-Mobile Arena,Paradise,Nevada,us,"Frank Sinatra Drive, Paradise, NV 89158, United States of America",36.102678049999994,-115.17822391490796,,0
-90,80,UBS Arena,Village of Floral Park,New York,us,"2400 Hempstead Turnpike, Village of Floral Park, NY 11001, United States of America",40.7116942,-73.72592286769509,,0
-91,27,United Center,Chicago,Illinois,us,"1901 West Madison Street, Chicago, IL 60612, United States of America",41.88068305,-87.67418510441388,,0
-92,29,Wells Fargo Center,Philadelphia,Pennsylvania,us,"Zinkoff Boulevard, Philadelphia, PA 19112, United States of America",39.901100400000004,-75.17201654615069,,0
-93,81,Xcel Energy Center,Saint Paul,Minnesota,us,"7th Street West, Saint Paul, MN 55155, United States of America",44.9447659,-93.10108511954809,,0
-94,82,American Family Field,Milwaukee,Wisconsin,us,"1 Brewers Way, Milwaukee, WI 53214, United States of America",43.0280619,-87.97209586840818,41900.0,0
-95,83,Angel Stadium of Anaheim,Anaheim,California,us,"2000 East Gene Autry Way, Anaheim, CA 92806, United States of America",33.8002599,-117.88174262759796,45517.0,0
-96,84,Busch Stadium,St. Louis,Missouri,us,"700 Clark Avenue, St. Louis, MO 63101, United States of America",38.6225538,-90.19392193458768,,0
-97,85,Chase Field,Phoenix,Arizona,us,"East Jefferson Street, Phoenix, AZ 85004, United States of America",33.44548555,-112.06669283293144,,0
-98,86,Citi Field,New York,New York,us,"41 Seaver Way, New York, NY 11368, United States of America",40.757277849999994,-73.84587884942417,,0
-99,87,Citizens Bank Park,Philadelphia,Pennsylvania,us,"Pattison Avenue, Philadelphia, PA 19145, United States of America",39.905885749999996,-75.16541101747245,,0
-100,88,Comerica Park,Detroit,Michigan,us,"Brush Street, Detroit, MI 48226, United States of America",42.33915895,-83.0496248178274,,0
-101,89,Coors Field,Denver,Colorado,us,"2001 Blake Street, Denver, CO 80205, United States of America",39.7560314,-104.99292855531493,,0
-102,90,Dodger Stadium,Los Angeles,California,us,"1000 Vin Scully Avenue, Los Angeles, CA 90012, United States of America",34.0736263,-118.23897581574036,,0
-103,91,Fenway Park,Boston,Massachusetts,us,"4 Jersey Street, Boston, MA 02115, United States of America",42.3464621,-71.0971002033302,37755.0,0
-104,92,Globe Life Field,Arlington,Texas,us,"Cowboys Way, Arlington, TX 76011, United States of America",32.74760655,-97.08410630166019,,0
-105,93,Great American Ball Park,Cincinnati,Ohio,us,"Ohio River Trail, Cincinnati, OH 45202, United States of America",39.097248449999995,-84.50662325533993,,0
-106,94,Guaranteed Rate Field,Chicago,Illinois,us,"333 West 35th Street, Chicago, IL 60616, United States of America",41.8300162,-87.63256264837347,,0
-107,95,Kauffman Stadium,Kansas City,Missouri,us,"1 Royal Way, Kansas City, MO 64129, United States of America",39.0514715,-94.48139730530374,,0
-108,96,LoanDepot Park,Miami,Florida,us,"Northwest 15th Avenue, Miami, FL 33128, United States of America",25.778247399999998,-80.21980500744203,,0
-109,97,Minute Maid Park,Houston,Texas,us,"501 Crawford Street, Houston, TX 77004, United States of America",29.75723205,-95.35523391491142,,0
-110,98,Nationals Park,Washington,District of Columbia,us,"1500 South Capitol Street Southeast, Washington, DC 20590, United States of America",38.87274095,-77.00838588569519,,0
-111,99,RingCentral Coliseum,Oakland,California,us,"7000 Coliseum Way, Oakland, CA 94621, United States of America",37.751675000000006,-122.19937132239198,,0
-112,100,Oracle Park,San Francisco,California,us,"24 Willie Mays Plaza, San Francisco, CA 94107, United States of America",37.7786119,-122.39026745425639,,0
-113,101,Oriole Park,Baltimore,Maryland,us,"555 Russell Street, Baltimore, MD 21230, United States of America",39.283982300000005,-76.62249149865416,,0
-114,102,Petco Park,San Diego,California,us,"100 Park Boulevard, San Diego, CA 92101, United States of America",32.70718815,-117.15687730689476,,0
-115,103,PNC Park,Pittsburgh,Pennsylvania,us,"Federal Street, Pittsburgh, PA 15222, United States of America",40.4469258,-80.00560626612204,,0
-116,104,Progressive Field,Cleveland,Ohio,us,"2401 Ontario Street, Cleveland, OH 44115, United States of America",41.496090550000005,-81.68513191630367,,0
-117,105,Rogers Centre,Old Toronto,Ontario,ca,"1 Blue Jays Way, Old Toronto, ON M5V 1J1, Canada",43.641659849999996,-79.38919761915824,,0
-118,106,T-Mobile Park,Seattle,Washington,us,"South Royal Brougham Way, Seattle, WA 98104, United States of America",47.59122645,-122.33256510340122,,0
-119,107,Target Field,Minneapolis,Minnesota,us,"1 Twins Way, Minneapolis, MN 55403, United States of America",44.98168445,-93.27786434576453,39021.0,0
-120,108,Tropicana Field,Saint Petersburg,Florida,us,"Pinellas Trail, Saint Petersburg, FL 33701, United States of America",27.7680559,-82.65327550461797,,0
-121,109,Truist Park,,Georgia,us,"755 Battery Avenue Southeast, The Battery Atlanta, GA 30339, United States of America",33.89070855,-84.46853422885837,,0
-122,110,Wrigley Field,Chicago,Illinois,us,"1060 West Addison Street, Chicago, IL 60613, United States of America",41.94813535,-87.65635154722081,41649.0,0
-123,111,Yankee Stadium,New York,New York,us,"1 East 161st Street, New York, NY 10451, United States of America",40.82958275,-73.92652118491901,,0
-124,112,Allianz Field,Saint Paul,Minnesota,us,"Simpson Street, Saint Paul, MN 55104, United States of America",44.953139,-93.164687068773,,0
-125,113,Audi Field,Washington,District of Columbia,us,"100 Potomac Avenue Southwest, Washington, DC 20024, United States of America",38.8682612,-77.01260516464751,,0
-126,114,BMO Stadium,Los Angeles,California,us,"South Coliseum Drive, Los Angeles, CA 90037, United States of America",34.012814,-118.28408924153342,,0
-127,115,BC Place,Vancouver,British Columbia,ca,"777 Pacific Boulevard, Vancouver, BC V6B, Canada",49.2766905,-123.1120061895052,54500.0,0
-128,116,BMO Field,Old Toronto,Ontario,ca,"Princes' Boulevard, Old Toronto, ON M6K 3C3, Canada",43.6333414,-79.41856141321526,,0
-129,117,Children's Mercy Park,Kansas City,Kansas,us,"Sporting Way, Kansas City, KS 66109, United States of America",39.1216438,-94.82335037131475,,0
-130,118,Dick's Sporting Goods Park,Commerce City,Colorado,us,"6000 Victory Way, Commerce City, CO 80022, United States of America",39.8059455,-104.89192187416558,,0
-131,119,Dignity Health Sports Park Soccer Stadium,Carson,California,us,"18400 South Avalon Boulevard, Carson, CA 90747, United States of America",33.8642391,-118.26107952025521,,0
-132,120,DRV PNK Stadium,Fort Lauderdale,Florida,us,"Northwest 55th Street, Fort Lauderdale, FL 33309, United States of America",26.1932625,-80.16066961287498,,0
-133,121,Barker Stadium,,Florida,us,"Fairbanks Avenue, Winter Park, FL 32789, United States of America",28.592762200000003,-81.34996401213354,,0
-134,39,Gillette Stadium,Foxborough,Massachusetts,us,"Patriot Place, Foxborough, MA 02071, United States of America",42.091252600000004,-71.2644646105907,,0
-135,122,Lower.com Field,Columbus,Ohio,us,"96 Columbus Crew Way, Columbus, OH 43215, United States of America",39.9683881,-83.0168287038446,20011.0,0
-136,47,Lumen Field,Seattle,Washington,us,"800 Occidental Avenue South, Seattle, WA 98134, United States of America",47.5953459,-122.33164431196111,,0
-137,49,Mercedes-Benz Stadium,Atlanta,Georgia,us,"1414 Andrew Young International Boulevard, Atlanta, GA 30313, United States of America",33.7554123,-84.40084932004368,,0
-138,51,Nissan Stadium,Nashville-Davidson,Tennessee,us,"Victory Avenue, Nashville-Davidson, TN 37213, United States of America",36.16652355,-86.77131480177009,,0
-139,123,PayPal Park,San Jose,California,us,"1123 Coleman Avenue, San Jose, CA 95110, United States of America",37.35130865,-121.92467197349785,18000.0,0
-140,124,Shell Energy Stadium,Houston,Texas,us,"Walker Street, Houston, TX 77003, United States of America",29.7520265,-95.35234094693865,,0
-141,125,Providence Park,Portland,Oregon,us,"Southwest 18th Avenue, Portland, OR 97205, United States of America",45.5214834,-122.6918430615391,,0
-142,126,North Building,Austin,Texas,us,"Calle Norte, Austin, TX 78758, United States of America",30.38844835,-97.71988531133168,,0
-143,127,Red Bull Arena,Harrison,New Jersey,us,"Cape May Street Northwest, Harrison, NJ 07029, United States of America",40.736889700000006,-74.1495775012734,25000.0,0
-144,128,America First Field,Sandy,Utah,us,"Rimando Way, Sandy, UT 84070, United States of America",40.58295325,-111.89331198903758,,0
-145,129,Stade Saputo,Montreal,Quebec,ca,"Rue Viau, Montreal, QC H1V 3J3, Canada",45.5630905,-73.55264201236912,,0
-146,56,Soldier Field,Chicago,Illinois,us,"425 East McFetridge Drive, Chicago, IL 60605, United States of America",41.86245145,-87.61671514704074,,0
-147,130,Subaru Park,Chester,Pennsylvania,us,"Seaport Drive, Chester, PA 19013, United States of America",39.832909400000005,-75.37847387081464,,0
-148,131,Toyota Stadium,Frisco,Texas,us,"9200 World Cup Way, Frisco, TX 75034, United States of America",33.1549042,-96.83526928863985,,0
-149,132,TQL Stadium,Cincinnati,Ohio,us,"Lowe Drive, Cincinnati, OH 45203, United States of America",39.1114126,-84.52229446750526,,0
-150,111,Yankee Stadium,New York,New York,us,"1 East 161st Street, New York, NY 10451, United States of America",40.82958275,-73.92652118491901,,0
+venue_id,venue_name,venue_city,venue_state,venue_country,venue_address,venue_lat,venue_lon,venue_capacity,next_event_id
+1,American Airlines Center,Dallas,Texas,us,"2500 Victory Avenue, Dallas, TX 75219, United States of America",32.7905076,-96.81027213460834,,0
+2,Amway Center,Orlando,Florida,us,"Hughey Avenue, Orlando, FL 32801, United States of America",28.53927385,-81.38400713924818,,0
+3,AT&T Center,San Antonio,Texas,us,"San Antonio, TX 78219, United States of America",29.4270504,-98.43750706398404,,0
+4,Ball Arena,Denver,Colorado,us,"1000 Chopper Circle, Denver, CO 80204, United States of America",39.748683799999995,-105.00754401780362,,0
+5,Barclays Center,New York,New York,us,"620 Atlantic Avenue, New York, NY 11217, United States of America",40.68251055,-73.97525186658912,,0
+6,Capital One Arena,Washington,District of Columbia,us,"601 F Street Northwest, Washington, DC 20004, United States of America",38.8981883,-77.0209377602636,,0
+7,Chase Center,San Francisco,California,us,"1 Warriors Way, San Francisco, CA 94158, United States of America",37.767892700000004,-122.38740721330376,18064.0,0
+8,Crypto.com Arena,Los Angeles,California,us,"1111 Figueroa Street, Los Angeles, CA 90015, United States of America",34.0430046,-118.26705260279402,,0
+9,FedExForum,Memphis,Tennessee,us,"191 Beale Street, Memphis, TN 38103, United States of America",35.1382401,-90.05069457768097,,0
+10,Fiserv Forum,Milwaukee,Wisconsin,us,"1111 North Vel R. Phillips Avenue, Milwaukee, WI 53203, United States of America",43.04500955,-87.91748710581575,,0
+11,Footprint Center,Phoenix,Arizona,us,"East Jefferson Street, Phoenix, AZ 85004, United States of America",33.4460392,-112.07110129629386,,0
+12,Miami-Dade Arena,Miami,Florida,us,"601 Biscayne Boulevard, Miami, FL 33132, United States of America",25.781359549999998,-80.18794351626137,19600.0,0
+13,Gainbridge Fieldhouse,Indianapolis,Indiana,us,"125 South Pennsylvania Street, Indianapolis, IN 46204, United States of America",39.7639331,-86.15550794973416,,0
+14,Golden 1 Center,Sacramento,California,us,"500 L Street, Sacramento, CA 95814, United States of America",38.58014045,-121.49950076409176,,0
+15,Little Caesars Arena,Detroit,Michigan,us,"2645 Woodward Avenue, Detroit, MI 48201, United States of America",42.34092995,-83.05516216701272,,0
+16,Madison Square Garden,New York,New York,us,"4 Pennsylvania Plaza, New York, NY 10001, United States of America",40.750512900000004,-73.99351594545152,,0
+17,Moda Center,Portland,Oregon,us,"North Multnomah Street, Portland, OR 97240, United States of America",45.5315787,-122.66683365218687,,0
+18,Paycom Center,Oklahoma City,Oklahoma,us,"100 West Reno Avenue, Oklahoma City, OK 73102, United States of America",35.46339605,-97.51508150130435,,0
+19,Rocket Mortgage FieldHouse,Cleveland,Ohio,us,"1 Huron Road East, Cleveland, OH 44115, United States of America",41.4966862,-81.68857538921003,,0
+20,Scotiabank Arena,Old Toronto,Ontario,ca,"40 Bay Street, Old Toronto, ON M5J 2J2, Canada",43.64343375,-79.37907772483726,,0
+21,Smoothie King Center,New Orleans,Louisiana,us,"2500 Howard Avenue, New Orleans, LA 70012, United States of America",29.94903925,-90.08206899587637,,0
+22,Spectrum Center,Charlotte,North Carolina,us,"333 East Trade Street, Charlotte, NC 28202, United States of America",35.225098,-80.83915411814897,,0
+23,State Farm Arena,Atlanta,Georgia,us,"1 State Farm Drive, Atlanta, GA 30303, United States of America",33.7573698,-84.39638483503104,,0
+24,Target Center,Minneapolis,Minnesota,us,"North 6th Street, Minneapolis, MN 55401, United States of America",44.979512650000004,-93.27609502567992,,0
+25,TD Garden,Boston,Massachusetts,us,"100 Legends Way, Boston, MA 02114, United States of America",42.3662986,-71.06216222263835,,0
+26,Toyota Center,Houston,Texas,us,"1510 Polk Street, Houston, TX 77010, United States of America",29.75074725,-95.36223151477087,,0
+27,United Center,Chicago,Illinois,us,"1901 West Madison Street, Chicago, IL 60612, United States of America",41.88068305,-87.67418510441388,,0
+28,Vivint Arena,Salt Lake City,Utah,us,"South Temple, Salt Lake City, UT 84180, United States of America",40.76832735,-111.90105507486473,,0
+29,Wells Fargo Center,Philadelphia,Pennsylvania,us,"Zinkoff Boulevard, Philadelphia, PA 19112, United States of America",39.901100400000004,-75.17201654615069,,0
+30,Allegiant Stadium,Las Vegas,Nevada,us,"3333 Al Davis Way, Las Vegas, NV 89118, United States of America",36.09083455,-115.18343206671804,65000.0,0
+31,Arrowhead Stadium,Kansas City,Missouri,us,"1 Arrowhead Drive, Kansas City, MO 64129, United States of America",39.04894045,-94.48499381102714,,0
+32,AT&T Stadium,Arlington,Texas,us,"900 East Randol Mill Road, Arlington, TX 76011, United States of America",32.74785025,-97.09283370737742,,0
+33,Bank of America Stadium,Charlotte,North Carolina,us,"800 South Mint Street, Charlotte, NC 28202, United States of America",35.225737,-80.8527666409835,,0
+34,Caesar's Superdome,New Orleans,Louisiana,us,"1500 Sugar Bowl Drive, New Orleans, LA 70113, United States of America",29.9510856,-90.08122023028636,,0
+35,Empower Field,Denver,Colorado,us,"1701 Mile High Stadium Circle, Denver, CO 80204, United States of America",39.743952,-105.01922281236835,,0
+36,FedExField,Landover,Maryland,us,"1600 Sean Taylor Road, Landover, MD 20785, United States of America",38.9077002,-76.86332608690218,,0
+37,FirstEnergy Stadium,Cleveland,Ohio,us,"100 Alfred Lerner Way, Cleveland, OH 44113, United States of America",41.5060559,-81.69971184525946,,0
+38,Ford Field,Detroit,Michigan,us,"Brush Street, Detroit, MI 48226, United States of America",42.33995675,-83.04561657403696,,0
+39,Gillette Stadium,Foxborough,Massachusetts,us,"Patriot Place, Foxborough, MA 02071, United States of America",42.091252600000004,-71.2644646105907,,0
+40,Hard Rock Stadium,Lake Lucerne,Florida,us,"105, Lake Lucerne, FL 33056, United States of America",25.95790315,-80.23884973967523,,0
+41,Acrisure Stadium,Pittsburgh,Pennsylvania,us,"North Shore Drive, Pittsburgh, PA 15290, United States of America",40.44671645,-80.01575493349428,,0
+42,Highmark Blue Cross Blue Shield Stadium,Town of Orchard Park,New York,us,"1 Bills Drive, Orchard Park, NY 14127, United States of America",42.7737131,-78.78690321060253,,0
+43,Lambeau Field,Green Bay,Wisconsin,us,"1265 Lombardi Avenue, Green Bay, WI 54304, United States of America",44.50095825,-88.06103404376007,,0
+44,Levi’s Stadium,Santa Clara,California,us,"4900 Marie P. DeBartolo Way, Santa Clara, CA 95054, United States of America",37.403158250000004,-121.96983144425579,,0
+45,Lincoln Financial Field,Philadelphia,Pennsylvania,us,"South Darien Street, Philadelphia, PA 19148, United States of America",39.9009099,-75.16748915605905,,0
+46,Lucas Oil Stadium,Indianapolis,Indiana,us,"West Henry Street, Indianapolis, IN 46225, United States of America",39.7590621,-86.16383761053042,,0
+47,Lumen Field,Seattle,Washington,us,"800 Occidental Avenue South, Seattle, WA 98134, United States of America",47.5953459,-122.33164431196111,,0
+48,M&T Bank Stadium,Baltimore,Maryland,us,"1101 Russell Street, Baltimore, MD 21230, United States of America",39.2779664,-76.62380930835468,,0
+49,Mercedes-Benz Stadium,Atlanta,Georgia,us,"1414 Andrew Young International Boulevard, Atlanta, GA 30313, United States of America",33.7554123,-84.40084932004368,,0
+50,MetLife Stadium,East Rutherford,New Jersey,us,"Road D, East Rutherford, NJ 07072, United States of America",40.81352375,-74.07340074891175,,0
+51,Nissan Stadium,Nashville-Davidson,Tennessee,us,"Victory Avenue, Nashville-Davidson, TN 37213, United States of America",36.16652355,-86.77131480177009,,0
+52,NRG Stadium,Houston,Texas,us,"1 NRG Parkway, Houston, TX 77054, United States of America",29.6848581,-95.41080145326987,,0
+53,Paycor Stadium,Cincinnati,Ohio,us,"1 West Pete Rose Way, Cincinnati, OH 45203, United States of America",39.0954645,-84.5160488350198,,0
+54,Raymond James Stadium,Tampa,Florida,us,"West Tampa Bay Boulevard, Tampa, FL 33607, United States of America",27.97597925,-82.50421799673616,,0
+55,SoFi Stadium,Inglewood,California,us,"1001 Champion Drive, Inglewood, CA 90301, United States of America",33.95340735,-118.33900981025587,,0
+56,Soldier Field,Chicago,Illinois,us,"425 East McFetridge Drive, Chicago, IL 60605, United States of America",41.86245145,-87.61671514704074,,0
+57,State Farm Stadium,Glendale,Arizona,us,"1 West Cardinals Drive, Glendale, AZ 85305, United States of America",33.52779565,-112.26267190264335,,0
+58,TIAA Bank Field,Jacksonville,Florida,us,"1 Gator Bowl Boulevard, Jacksonville, FL 32202, United States of America",30.32398105,-81.63730457034035,,0
+59,US Bank Stadium,Minneapolis,Minnesota,us,"401 Chicago Avenue South, Minneapolis, MN 55415, United States of America",44.97361545,-93.25746628273055,,0
+60,Amalie Arena,Tampa,Florida,us,"401 Channelside Drive, Tampa, FL 33602, United States of America",27.942704,-82.45189031562487,20000.0,0
+61,Centre Bell,Montreal,Quebec,ca,"Place des Canadiens, Montreal, QC H3C 1B4, Canada",45.49605985,-73.56922527683774,,0
+62,Bridgestone Arena,Nashville-Davidson,Tennessee,us,"501 6th Avenue South, Nashville-Davidson, TN 37203, United States of America",36.1589806,-86.77838189265074,,0
+63,Canada Life Centre,Winnipeg,Manitoba,ca,"300 Portage Avenue, Winnipeg, MB R3B 2B9, Canada",49.8925737,-97.1437218346315,,0
+64,Canadian Tire Centre,Ottawa,Ontario,ca,"1000 Palladium Drive, Ottawa, ON K2V 1E2, Canada",45.296906899999996,-75.92689732572379,,0
+65,Climate Pledge Arena,Seattle,Washington,us,"334 1st Avenue North, Seattle, WA 98109, United States of America",47.6219014,-122.353990491486,,0
+66,Enterprise Center,St. Louis,Missouri,us,"1401 Clark Avenue, St. Louis, MO 63103, United States of America",38.62680845,-90.20263932150607,,0
+67,FLA Live Arena,Sunrise,Florida,us,"1 Northwest 137th Way, Sunrise, FL 33323, United States of America",26.15837015,-80.3254288749938,,0
+68,Gila River Arena,Glendale,Arizona,us,"9400 West Maryland Avenue, Glendale, AZ 85305, United States of America",33.53196065,-112.26124059182274,,0
+69,Honda Center,Anaheim,California,us,"2695 East Katella Avenue, Anaheim, CA 92806, United States of America",33.80783155,-117.876533959295,,0
+70,KeyBank Center,Buffalo,New York,us,"Washington Street, Buffalo, NY 14203, United States of America",42.87514665,-78.87663585570175,19070.0,0
+71,Nationwide Arena,Columbus,Ohio,us,"200 West Nationwide Boulevard, Columbus, OH 43215, United States of America",39.9691873,-83.00608002061449,,0
+72,Carter-Finley Stadium,Raleigh,North Carolina,us,"E. Stephen Stroud Way, Raleigh, NC 27607, United States of America",35.800846449999995,-78.71960451582763,,0
+73,PPG Paints Arena,Pittsburgh,Pennsylvania,us,"1001 Fifth Avenue, Pittsburgh, PA 15262, United States of America",40.439621700000004,-79.98950569382804,,0
+74,Prudential Center,Newark,New Jersey,us,"25 Lafayette Street, Newark, NJ 07102, United States of America",40.7336045,-74.17106309834053,,0
+75,Rogers Arena,Vancouver,British Columbia,ca,"800 Griffiths Way, Vancouver, BC V6B, Canada",49.2779085,-123.10894170979472,,0
+76,Rogers Place,Edmonton,Alberta,ca,"10220 104 Avenue NW, Edmonton, AB T5J 4Y8, Canada",53.5467936,-113.49779461115837,20734.0,0
+77,SAP Center at San Jose,San Jose,California,us,"525 West Santa Clara Street, San Jose, CA 95113, United States of America",37.33286035,-121.90122465574646,,0
+78,Scotiabank Saddledome,Calgary,Alberta,ca,"555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada",51.037412399999994,-114.05196415720093,,0
+79,T-Mobile Arena,Paradise,Nevada,us,"Frank Sinatra Drive, Paradise, NV 89158, United States of America",36.102678049999994,-115.17822391490796,,0
+80,UBS Arena,Village of Floral Park,New York,us,"2400 Hempstead Turnpike, Village of Floral Park, NY 11001, United States of America",40.7116942,-73.72592286769509,,0
+81,Xcel Energy Center,Saint Paul,Minnesota,us,"7th Street West, Saint Paul, MN 55155, United States of America",44.9447659,-93.10108511954809,,0
+82,American Family Field,Milwaukee,Wisconsin,us,"1 Brewers Way, Milwaukee, WI 53214, United States of America",43.0280619,-87.97209586840818,41900.0,0
+83,Angel Stadium of Anaheim,Anaheim,California,us,"2000 East Gene Autry Way, Anaheim, CA 92806, United States of America",33.8002599,-117.88174262759796,45517.0,0
+84,Busch Stadium,St. Louis,Missouri,us,"700 Clark Avenue, St. Louis, MO 63101, United States of America",38.6225538,-90.19392193458768,,0
+85,Chase Field,Phoenix,Arizona,us,"East Jefferson Street, Phoenix, AZ 85004, United States of America",33.44548555,-112.06669283293144,,0
+86,Citi Field,New York,New York,us,"41 Seaver Way, New York, NY 11368, United States of America",40.757277849999994,-73.84587884942417,,0
+87,Citizens Bank Park,Philadelphia,Pennsylvania,us,"Pattison Avenue, Philadelphia, PA 19145, United States of America",39.905885749999996,-75.16541101747245,,0
+88,Comerica Park,Detroit,Michigan,us,"Brush Street, Detroit, MI 48226, United States of America",42.33915895,-83.0496248178274,,0
+89,Coors Field,Denver,Colorado,us,"2001 Blake Street, Denver, CO 80205, United States of America",39.7560314,-104.99292855531493,,0
+90,Dodger Stadium,Los Angeles,California,us,"1000 Vin Scully Avenue, Los Angeles, CA 90012, United States of America",34.0736263,-118.23897581574036,,0
+91,Fenway Park,Boston,Massachusetts,us,"4 Jersey Street, Boston, MA 02115, United States of America",42.3464621,-71.0971002033302,37755.0,0
+92,Globe Life Field,Arlington,Texas,us,"Cowboys Way, Arlington, TX 76011, United States of America",32.74760655,-97.08410630166019,,0
+93,Great American Ball Park,Cincinnati,Ohio,us,"Ohio River Trail, Cincinnati, OH 45202, United States of America",39.097248449999995,-84.50662325533993,,0
+94,Guaranteed Rate Field,Chicago,Illinois,us,"333 West 35th Street, Chicago, IL 60616, United States of America",41.8300162,-87.63256264837347,,0
+95,Kauffman Stadium,Kansas City,Missouri,us,"1 Royal Way, Kansas City, MO 64129, United States of America",39.0514715,-94.48139730530374,,0
+96,LoanDepot Park,Miami,Florida,us,"Northwest 15th Avenue, Miami, FL 33128, United States of America",25.778247399999998,-80.21980500744203,,0
+97,Minute Maid Park,Houston,Texas,us,"501 Crawford Street, Houston, TX 77004, United States of America",29.75723205,-95.35523391491142,,0
+98,Nationals Park,Washington,District of Columbia,us,"1500 South Capitol Street Southeast, Washington, DC 20590, United States of America",38.87274095,-77.00838588569519,,0
+99,RingCentral Coliseum,Oakland,California,us,"7000 Coliseum Way, Oakland, CA 94621, United States of America",37.751675000000006,-122.19937132239198,,0
+100,Oracle Park,San Francisco,California,us,"24 Willie Mays Plaza, San Francisco, CA 94107, United States of America",37.7786119,-122.39026745425639,,0
+101,Oriole Park,Baltimore,Maryland,us,"555 Russell Street, Baltimore, MD 21230, United States of America",39.283982300000005,-76.62249149865416,,0
+102,Petco Park,San Diego,California,us,"100 Park Boulevard, San Diego, CA 92101, United States of America",32.70718815,-117.15687730689476,,0
+103,PNC Park,Pittsburgh,Pennsylvania,us,"Federal Street, Pittsburgh, PA 15222, United States of America",40.4469258,-80.00560626612204,,0
+104,Progressive Field,Cleveland,Ohio,us,"2401 Ontario Street, Cleveland, OH 44115, United States of America",41.496090550000005,-81.68513191630367,,0
+105,Rogers Centre,Old Toronto,Ontario,ca,"1 Blue Jays Way, Old Toronto, ON M5V 1J1, Canada",43.641659849999996,-79.38919761915824,,0
+106,T-Mobile Park,Seattle,Washington,us,"South Royal Brougham Way, Seattle, WA 98104, United States of America",47.59122645,-122.33256510340122,,0
+107,Target Field,Minneapolis,Minnesota,us,"1 Twins Way, Minneapolis, MN 55403, United States of America",44.98168445,-93.27786434576453,39021.0,0
+108,Tropicana Field,Saint Petersburg,Florida,us,"Pinellas Trail, Saint Petersburg, FL 33701, United States of America",27.7680559,-82.65327550461797,,0
+109,Truist Park,,Georgia,us,"755 Battery Avenue Southeast, The Battery Atlanta, GA 30339, United States of America",33.89070855,-84.46853422885837,,0
+110,Wrigley Field,Chicago,Illinois,us,"1060 West Addison Street, Chicago, IL 60613, United States of America",41.94813535,-87.65635154722081,41649.0,0
+111,Yankee Stadium,New York,New York,us,"1 East 161st Street, New York, NY 10451, United States of America",40.82958275,-73.92652118491901,,0
+112,Allianz Field,Saint Paul,Minnesota,us,"Simpson Street, Saint Paul, MN 55104, United States of America",44.953139,-93.164687068773,,0
+113,Audi Field,Washington,District of Columbia,us,"100 Potomac Avenue Southwest, Washington, DC 20024, United States of America",38.8682612,-77.01260516464751,,0
+114,BMO Stadium,Los Angeles,California,us,"South Coliseum Drive, Los Angeles, CA 90037, United States of America",34.012814,-118.28408924153342,,0
+115,BC Place,Vancouver,British Columbia,ca,"777 Pacific Boulevard, Vancouver, BC V6B, Canada",49.2766905,-123.1120061895052,54500.0,0
+116,BMO Field,Old Toronto,Ontario,ca,"Princes' Boulevard, Old Toronto, ON M6K 3C3, Canada",43.6333414,-79.41856141321526,,0
+117,Children's Mercy Park,Kansas City,Kansas,us,"Sporting Way, Kansas City, KS 66109, United States of America",39.1216438,-94.82335037131475,,0
+118,Dick's Sporting Goods Park,Commerce City,Colorado,us,"6000 Victory Way, Commerce City, CO 80022, United States of America",39.8059455,-104.89192187416558,,0
+119,Dignity Health Sports Park Soccer Stadium,Carson,California,us,"18400 South Avalon Boulevard, Carson, CA 90747, United States of America",33.8642391,-118.26107952025521,,0
+120,DRV PNK Stadium,Fort Lauderdale,Florida,us,"Northwest 55th Street, Fort Lauderdale, FL 33309, United States of America",26.1932625,-80.16066961287498,,0
+121,Barker Stadium,,Florida,us,"Fairbanks Avenue, Winter Park, FL 32789, United States of America",28.592762200000003,-81.34996401213354,,0
+122,Lower.com Field,Columbus,Ohio,us,"96 Columbus Crew Way, Columbus, OH 43215, United States of America",39.9683881,-83.0168287038446,20011.0,0
+123,PayPal Park,San Jose,California,us,"1123 Coleman Avenue, San Jose, CA 95110, United States of America",37.35130865,-121.92467197349785,18000.0,0
+124,Shell Energy Stadium,Houston,Texas,us,"Walker Street, Houston, TX 77003, United States of America",29.7520265,-95.35234094693865,,0
+125,Providence Park,Portland,Oregon,us,"Southwest 18th Avenue, Portland, OR 97205, United States of America",45.5214834,-122.6918430615391,,0
+126,North Building,Austin,Texas,us,"Calle Norte, Austin, TX 78758, United States of America",30.38844835,-97.71988531133168,,0
+127,Red Bull Arena,Harrison,New Jersey,us,"Cape May Street Northwest, Harrison, NJ 07029, United States of America",40.736889700000006,-74.1495775012734,25000.0,0
+128,America First Field,Sandy,Utah,us,"Rimando Way, Sandy, UT 84070, United States of America",40.58295325,-111.89331198903758,,0
+129,Stade Saputo,Montreal,Quebec,ca,"Rue Viau, Montreal, QC H1V 3J3, Canada",45.5630905,-73.55264201236912,,0
+130,Subaru Park,Chester,Pennsylvania,us,"Seaport Drive, Chester, PA 19013, United States of America",39.832909400000005,-75.37847387081464,,0
+131,Toyota Stadium,Frisco,Texas,us,"9200 World Cup Way, Frisco, TX 75034, United States of America",33.1549042,-96.83526928863985,,0
+132,TQL Stadium,Cincinnati,Ohio,us,"Lowe Drive, Cincinnati, OH 45203, United States of America",39.1114126,-84.52229446750526,,0
