@@ -61,7 +61,9 @@ def team():
 
     """Return a list of all teams"""
     # Query all teams with league joined
-    results = session.query(Team.team, Team.venue_id, League.league).filter(Team.league_id == League.league_id).all()
+    results = session.query(Team.team, Team.venue_id, League.league,
+                            Venue.venue_id, Venue.venue_name, Venue.venue_state,
+                            Venue.venue_address, Venue.venue_lat, Venue.venue_lon).filter(Team.league_id == League.league_id).filter(Team.venue_id == Venue.venue_id).all()
 
     session.close()
 
@@ -71,6 +73,12 @@ def team():
         team_dict["team_id"] = result[0]
         team_dict["venue_id"] = result[1]
         team_dict["league"] = result[2]
+        team_dict["venue_id"] = result[3]
+        team_dict["venue_name"] = result[4]
+        team_dict["venue_state"] = result[5]
+        team_dict["venue_address"] = result[6]
+        team_dict["venue_lat"] = float(result[7])
+        team_dict["venue_lon"] = float(result[8])
 
         all_teams.append(team_dict)
 
