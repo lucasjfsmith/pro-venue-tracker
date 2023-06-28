@@ -5,6 +5,8 @@
   <meta charset="utf-8">
   <title>Venue Map</title>
 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <!-- D3 library -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
 
@@ -20,14 +22,24 @@
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
 </head>
 
 <body>
   <!-- The div where we'll insert our map -->
   <div id="map"></div>
 
+  <!-- The canvas element for the chart -->
+  <canvas id="barChart" width="800" height="600"></canvas>
+  
+  <!-- Chart.js library -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Chart.js datalabels plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+  
   <!-- JavaScript file -->
-  <script type="text/javascript" src="static/js/app_luke.js"></script>
+  <script type="text/javascript" src="static/js/app_jeffin.js"></script>
 </body>
 
 </html>
