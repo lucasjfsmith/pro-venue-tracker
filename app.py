@@ -29,6 +29,10 @@ app = Flask(__name__)
 def home():
     return render_template("index.html")
 
+@app.route("/chart")
+def chart():
+    return render_template("chart.html")
+
 # @app.route("/api/venues")
 # def venue():
 #     # Create our session (link) from Python to the DB
