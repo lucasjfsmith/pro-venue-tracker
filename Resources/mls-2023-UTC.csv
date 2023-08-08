@@ -1,0 +1,494 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,25/02/2023 21:30,GEODIS Park,Nashville,New York City,2 - 0
+2,1,26/02/2023 00:30,Mercedes-Benz Stadium,Atlanta,San Jose,2 - 1
+3,1,26/02/2023 00:30,Bank of America Stadium,Charlotte,New England,0 - 1
+4,1,26/02/2023 00:30,TQL Stadium,Cincinnati,Houston,2 - 1
+5,1,26/02/2023 00:30,Audi Field,D.C.,Toronto,3 - 2
+6,1,26/02/2023 00:30,DRV PNK Stadium,Miami,Montréal,2 - 0
+7,1,26/02/2023 00:30,Exploria Stadium,Orlando,New York,1 - 0
+8,1,26/02/2023 00:30,Subaru Park,Philadelphia,Columbus,4 - 1
+9,1,26/02/2023 01:30,Q2 Stadium,Austin,St. Louis,2 - 3
+10,1,26/02/2023 01:30,Toyota Stadium,Dallas,Minnesota,0 - 1
+11,1,26/02/2023 03:30,BC Place,Vancouver,Salt Lake,1 - 2
+12,1,27/02/2023 01:00,Lumen Field,Seattle,Colorado,4 - 0
+13,1,28/02/2023 03:00,Providence Park,Portland,Kansas City,1 - 0
+14,2,04/03/2023 21:15,BMO Stadium,LAFC,Portland,3 - 2
+15,2,05/03/2023 00:30,Mercedes-Benz Stadium,Atlanta,Toronto,1 - 1
+16,2,05/03/2023 00:30,Lower.com Field,Columbus,D.C.,2 - 0
+17,2,05/03/2023 00:30,DRV PNK Stadium,Miami,Philadelphia,2 - 0
+18,2,05/03/2023 00:30,Gillette Stadium,New England,Houston,3 - 0
+19,2,05/03/2023 00:30,Red Bull Arena,New York,Nashville,0 - 0
+20,2,05/03/2023 00:30,Exploria Stadium,Orlando,Cincinnati,0 - 0
+21,2,05/03/2023 01:30,Q2 Stadium,Austin,Montréal,1 - 0
+22,2,05/03/2023 01:30,Soldier Field,Chicago,New York City,1 - 1
+23,2,05/03/2023 01:30,Toyota Stadium,Dallas,LA,3 - 1
+24,2,05/03/2023 01:30,CITYPARK,St. Louis,Charlotte,3 - 1
+25,2,05/03/2023 02:30,Dick's Sporting Goods Park,Colorado,Kansas City,0 - 0
+26,2,05/03/2023 03:30,PayPal Park,San Jose,Vancouver,2 - 1
+27,2,05/03/2023 03:30,Lumen Field,Seattle,Salt Lake,2 - 0
+28,3,11/03/2023 17:00,Bank of America Stadium,Charlotte,Atlanta,0 - 3
+29,3,11/03/2023 22:00,BC Place,Vancouver,Dallas,1 - 1
+30,3,12/03/2023 00:30,TQL Stadium,Cincinnati,Seattle,1 - 0
+31,3,12/03/2023 00:30,Audi Field,D.C.,Orlando,1 - 1
+32,3,12/03/2023 00:30,Yankee Stadium,New York City,Miami,1 - 0
+33,3,12/03/2023 00:30,Subaru Park,Philadelphia,Chicago,1 - 0
+34,3,12/03/2023 00:30,BMO Field,Toronto,Columbus,1 - 1
+35,3,12/03/2023 01:30,Children's Mercy Park,Kansas City,LA,0 - 0
+36,3,12/03/2023 01:30,Allianz Field,Minnesota,New York,1 - 1
+37,3,12/03/2023 01:30,GEODIS Park,Nashville,Montréal,2 - 0
+38,3,12/03/2023 02:30,America First Field,Salt Lake,Austin,1 - 2
+39,3,12/03/2023 03:30,Providence Park,Portland,St. Louis,1 - 2
+40,3,12/03/2023 03:30,PayPal Park,San Jose,Colorado,1 - 0
+41,3,13/03/2023 02:30,BMO Stadium,LAFC,New England,4 - 0
+42,4,18/03/2023 20:00,Lumen Field,Seattle,LAFC,0 - 0
+43,4,18/03/2023 23:30,Mercedes-Benz Stadium,Atlanta,Portland,5 - 1
+44,4,18/03/2023 23:30,Stade Olympique (Montreal),Montréal,Philadelphia,3 - 2
+45,4,18/03/2023 23:30,Gillette Stadium,New England,Nashville,1 - 0
+46,4,18/03/2023 23:30,Red Bull Arena,New York,Columbus,2 - 1
+47,4,18/03/2023 23:30,Yankee Stadium,New York City,D.C.,3 - 2
+48,4,18/03/2023 23:30,Exploria Stadium,Orlando,Charlotte,1 - 2
+49,4,18/03/2023 23:30,BMO Field,Toronto,Miami,2 - 0
+50,4,19/03/2023 00:30,Soldier Field,Chicago,Cincinnati,3 - 3
+51,4,19/03/2023 00:30,Toyota Stadium,Dallas,Kansas City,2 - 1
+52,4,19/03/2023 00:30,Shell Energy Stadium,Houston,Austin,2 - 0
+53,4,19/03/2023 00:30,CITYPARK,St. Louis,San Jose,3 - 0
+54,4,19/03/2023 01:30,Dick's Sporting Goods Park,Colorado,Minnesota,1 - 2
+55,4,19/03/2023 02:30,Dignity Health Sports Park,LA,Vancouver,1 - 1
+56,5,25/03/2023 20:30,Providence Park,Portland,LA,0 - 0
+57,5,25/03/2023 23:30,Bank of America Stadium,Charlotte,New York,1 - 1
+58,5,25/03/2023 23:30,Lower.com Field,Columbus,Atlanta,6 - 1
+59,5,25/03/2023 23:30,Audi Field,D.C.,New England,1 - 2
+60,5,25/03/2023 23:30,DRV PNK Stadium,Miami,Chicago,2 - 3
+61,5,25/03/2023 23:30,Subaru Park,Philadelphia,Orlando,1 - 2
+62,5,26/03/2023 00:30,Q2 Stadium,Austin,Colorado,1 - 1
+63,5,26/03/2023 00:30,Shell Energy Stadium,Houston,New York City,1 - 0
+64,5,26/03/2023 00:30,Children's Mercy Park,Kansas City,Seattle,1 - 4
+65,5,26/03/2023 00:30,Allianz Field,Minnesota,Vancouver,1 - 1
+66,5,26/03/2023 00:30,GEODIS Park,Nashville,Cincinnati,0 - 1
+67,5,26/03/2023 01:30,America First Field,Salt Lake,St. Louis,0 - 4
+68,5,26/03/2023 02:30,BMO Stadium,LAFC,Dallas,2 - 1
+69,5,26/03/2023 02:30,PayPal Park,San Jose,Toronto,0 - 0
+70,6,01/04/2023 23:30,Mercedes-Benz Stadium,Atlanta,New York,1 - 0
+71,6,01/04/2023 23:30,TQL Stadium,Cincinnati,Miami,1 - 0
+72,6,01/04/2023 23:30,Lower.com Field,Columbus,Salt Lake,4 - 0
+73,6,01/04/2023 23:30,Dignity Health Sports Park,LA,Seattle,1 - 2
+74,6,01/04/2023 23:30,Gillette Stadium,New England,New York City,1 - 1
+75,6,01/04/2023 23:30,Exploria Stadium,Orlando,Nashville,0 - 2
+76,6,01/04/2023 23:30,Subaru Park,Philadelphia,Kansas City,0 - 0
+77,6,01/04/2023 23:30,BMO Field,Toronto,Charlotte,2 - 2
+78,6,02/04/2023 00:30,Soldier Field,Chicago,D.C.,0 - 0
+79,6,02/04/2023 00:30,Toyota Stadium,Dallas,Portland,1 - 1
+80,6,02/04/2023 00:30,CITYPARK,St. Louis,Minnesota,0 - 1
+81,6,02/04/2023 01:30,Dick's Sporting Goods Park,Colorado,LAFC,0 - 0
+82,6,02/04/2023 02:30,PayPal Park,San Jose,Houston,2 - 1
+83,6,02/04/2023 02:30,BC Place,Vancouver,Montréal,5 - 0
+84,7,08/04/2023 23:30,TQL Stadium,Cincinnati,Philadelphia,1 - 0
+85,7,08/04/2023 23:30,Audi Field,D.C.,Columbus,0 - 2
+86,7,08/04/2023 23:30,BMO Stadium,LAFC,Austin,3 - 0
+87,7,08/04/2023 23:30,DRV PNK Stadium,Miami,Dallas,0 - 1
+88,7,08/04/2023 23:30,Gillette Stadium,New England,Montréal,4 - 0
+89,7,08/04/2023 23:30,Red Bull Arena,New York,San Jose,1 - 1
+90,7,08/04/2023 23:30,Yankee Stadium,New York City,Atlanta,1 - 1
+91,7,09/04/2023 00:30,Soldier Field,Chicago,Minnesota,2 - 1
+92,7,09/04/2023 00:30,Shell Energy Stadium,Houston,LA,3 - 0
+93,7,09/04/2023 00:30,Children's Mercy Park,Kansas City,Colorado,0 - 1
+94,7,09/04/2023 00:30,GEODIS Park,Nashville,Toronto,0 - 0
+95,7,09/04/2023 01:30,America First Field,Salt Lake,Charlotte,3 - 1
+96,7,09/04/2023 02:30,Lumen Field,Seattle,St. Louis,3 - 0
+97,7,09/04/2023 02:30,BC Place,Vancouver,Portland,1 - 0
+98,8,15/04/2023 23:30,Bank of America Stadium,Charlotte,Colorado,2 - 2
+99,8,15/04/2023 23:30,Lower.com Field,Columbus,New England,1 - 1
+100,8,15/04/2023 23:30,Stade Saputo,Montréal,D.C.,0 - 1
+102,8,15/04/2023 23:30,Citi Field,New York City,Nashville,2 - 1
+103,8,15/04/2023 23:30,BMO Field,Toronto,Atlanta,2 - 2
+104,8,16/04/2023 00:30,Q2 Stadium,Austin,Vancouver,0 - 0
+105,8,16/04/2023 00:30,Soldier Field,Chicago,Philadelphia,2 - 2
+106,8,16/04/2023 00:30,Toyota Stadium,Dallas,Salt Lake,2 - 1
+107,8,16/04/2023 00:30,Allianz Field,Minnesota,Orlando,1 - 2
+109,8,16/04/2023 02:30,Providence Park,Portland,Seattle,4 - 1
+110,8,16/04/2023 02:30,PayPal Park,San Jose,Kansas City,3 - 0
+108,8,16/04/2023 02:49,CITYPARK,St. Louis,Cincinnati,5 - 1
+101,8,16/04/2023 11:00,Red Bull Arena,New York,Houston,1 - 1
+111,8,16/04/2023 20:30,Dignity Health Sports Park,LA,LAFC,2 - 3
+112,9,22/04/2023 23:30,Bank of America Stadium,Charlotte,Columbus,1 - 0
+113,9,22/04/2023 23:30,TQL Stadium,Cincinnati,Portland,2 - 1
+114,9,22/04/2023 23:30,Stade Saputo,Montréal,New York,2 - 0
+115,9,22/04/2023 23:30,Gillette Stadium,New England,Kansas City,2 - 1
+116,9,22/04/2023 23:30,Citi Field,New York City,Dallas,3 - 1
+117,9,22/04/2023 23:30,Exploria Stadium,Orlando,D.C.,1 - 3
+118,9,22/04/2023 23:30,Subaru Park,Philadelphia,Toronto,4 - 2
+119,9,23/04/2023 00:30,Shell Energy Stadium,Houston,Miami,1 - 0
+120,9,23/04/2023 00:30,GEODIS Park,Nashville,LAFC,1 - 1
+121,9,23/04/2023 01:30,Dick's Sporting Goods Park,Colorado,St. Louis,1 - 1
+122,9,23/04/2023 01:30,America First Field,Salt Lake,San Jose,3 - 1
+123,9,23/04/2023 02:30,Dignity Health Sports Park,LA,Austin,2 - 0
+124,9,23/04/2023 02:30,Lumen Field,Seattle,Minnesota,1 - 0
+125,9,23/04/2023 20:30,Mercedes-Benz Stadium,Atlanta,Chicago,2 - 1
+126,10,29/04/2023 17:30,GEODIS Park,Nashville,Atlanta,3 - 1
+127,10,29/04/2023 23:30,Lower.com Field,Columbus,Miami,1 - 2
+128,10,29/04/2023 23:30,Audi Field,D.C.,Charlotte,3 - 0
+129,10,29/04/2023 23:30,Gillette Stadium,New England,Cincinnati,1 - 1
+130,10,29/04/2023 23:30,Exploria Stadium,Orlando,LA,2 - 0
+131,10,29/04/2023 23:30,BMO Field,Toronto,New York City,1 - 0
+132,10,30/04/2023 00:30,Q2 Stadium,Austin,San Jose,2 - 2
+133,10,30/04/2023 00:30,Soldier Field,Chicago,New York,1 - 1
+134,10,30/04/2023 00:30,Children's Mercy Park,Kansas City,Montréal,0 - 2
+135,10,30/04/2023 00:30,CITYPARK,St. Louis,Portland,1 - 2
+136,10,30/04/2023 01:30,America First Field,Salt Lake,Seattle,0 - 0
+138,10,30/04/2023 02:30,BC Place,Vancouver,Colorado,0 - 0
+139,10,01/05/2023 01:00,Allianz Field,Minnesota,Dallas,0 - 0
+137,10,15/06/2023 02:30,BMO Stadium,LAFC,Houston,0 - 1
+140,11,06/05/2023 23:30,Bank of America Stadium,Charlotte,New York City,3 - 2
+141,11,06/05/2023 23:30,TQL Stadium,Cincinnati,D.C.,2 - 1
+142,11,06/05/2023 23:30,DRV PNK Stadium,Miami,Atlanta,2 - 1
+143,11,06/05/2023 23:30,Stade Saputo,Montréal,Orlando,2 - 0
+144,11,06/05/2023 23:30,Red Bull Arena,New York,Philadelphia,0 - 1
+145,11,06/05/2023 23:30,Levi's Stadium,San Jose,LAFC,2 - 1
+146,11,06/05/2023 23:30,BMO Field,Toronto,New England,0 - 2
+148,11,07/05/2023 00:30,Shell Energy Stadium,Houston,Salt Lake,0 - 0
+149,11,07/05/2023 00:30,GEODIS Park,Nashville,Chicago,3 - 0
+150,11,07/05/2023 02:30,Dignity Health Sports Park,LA,Colorado,1 - 3
+151,11,07/05/2023 02:30,Providence Park,Portland,Austin,2 - 2
+152,11,07/05/2023 02:30,BC Place,Vancouver,Minnesota,3 - 2
+153,11,07/05/2023 20:30,Lumen Field,Seattle,Kansas City,1 - 2
+147,11,08/06/2023 00:30,Toyota Stadium,Dallas,St. Louis,0 - 0
+154,12,13/05/2023 17:00,Soldier Field,Chicago,St. Louis,1 - 0
+155,12,13/05/2023 23:30,Mercedes-Benz Stadium,Atlanta,Charlotte,1 - 3
+156,12,13/05/2023 23:30,Lower.com Field,Columbus,Orlando,2 - 2
+157,12,13/05/2023 23:30,Audi Field,D.C.,Nashville,1 - 1
+158,12,13/05/2023 23:30,DRV PNK Stadium,Miami,New England,2 - 1
+159,12,13/05/2023 23:30,Stade Saputo,Montréal,Toronto,2 - 0
+160,12,13/05/2023 23:30,Red Bull Arena,New York,New York City,1 - 0
+161,12,14/05/2023 00:30,Q2 Stadium,Austin,Dallas,0 - 1
+162,12,14/05/2023 00:30,Shell Energy Stadium,Houston,Seattle,0 - 1
+163,12,14/05/2023 00:30,Children's Mercy Park,Kansas City,Minnesota,3 - 0
+164,12,14/05/2023 01:30,Dick's Sporting Goods Park,Colorado,Philadelphia,1 - 2
+165,12,14/05/2023 01:30,America First Field,Salt Lake,LAFC,0 - 3
+166,12,14/05/2023 02:30,Providence Park,Portland,Vancouver,3 - 1
+167,12,15/05/2023 01:30,Dignity Health Sports Park,LA,San Jose,2 - 1
+168,13,17/05/2023 23:30,Mercedes-Benz Stadium,Atlanta,Colorado,4 - 0
+169,13,17/05/2023 23:30,Bank of America Stadium,Charlotte,Chicago,2 - 1
+170,13,17/05/2023 23:30,TQL Stadium,Cincinnati,Montréal,3 - 0
+171,13,17/05/2023 23:30,Lower.com Field,Columbus,LA,2 - 0
+172,13,17/05/2023 23:30,Exploria Stadium,Orlando,New York City,1 - 1
+174,13,17/05/2023 23:30,BMO Field,Toronto,New York,0 - 0
+173,13,17/05/2023 23:55,Subaru Park,Philadelphia,D.C.,0 - 0
+175,13,18/05/2023 00:30,Toyota Stadium,Dallas,Vancouver,2 - 1
+176,13,18/05/2023 00:30,Allianz Field,Minnesota,Houston,1 - 0
+177,13,18/05/2023 00:30,GEODIS Park,Nashville,Miami,2 - 1
+178,13,18/05/2023 01:30,America First Field,Salt Lake,Portland,0 - 0
+179,13,18/05/2023 02:30,BMO Stadium,LAFC,Kansas City,1 - 1
+180,13,18/05/2023 02:30,Lumen Field,Seattle,Austin,1 - 2
+181,14,20/05/2023 23:30,Bank of America Stadium,Charlotte,Nashville,1 - 2
+182,14,20/05/2023 23:30,TQL Stadium,Cincinnati,Columbus,3 - 2
+183,14,20/05/2023 23:30,Audi Field,D.C.,LA,3 - 0
+184,14,20/05/2023 23:30,DRV PNK Stadium,Miami,Orlando,1 - 3
+185,14,20/05/2023 23:30,Red Bull Arena,New York,Montréal,2 - 1
+186,14,20/05/2023 23:30,Subaru Park,Philadelphia,New England,3 - 0
+187,14,21/05/2023 00:30,Q2 Stadium,Austin,Toronto,1 - 0
+188,14,21/05/2023 00:30,Soldier Field,Chicago,Atlanta,3 - 3
+189,14,21/05/2023 00:30,Toyota Stadium,Dallas,Houston,1 - 1
+190,14,21/05/2023 01:30,Dick's Sporting Goods Park,Colorado,Salt Lake,2 - 3
+191,14,21/05/2023 01:30,CITYPARK,St. Louis,Kansas City,4 - 0
+192,14,21/05/2023 02:30,BMO Stadium,LAFC,San Jose,2 - 1
+193,14,21/05/2023 02:30,Providence Park,Portland,Minnesota,0 - 1
+194,14,21/05/2023 02:30,BC Place,Vancouver,Seattle,2 - 0
+195,15,27/05/2023 23:30,Stade Saputo,Montréal,Miami,1 - 0
+196,15,27/05/2023 23:30,Gillette Stadium,New England,Chicago,3 - 3
+197,15,27/05/2023 23:30,Citi Field,New York City,Philadelphia,1 - 3
+198,15,27/05/2023 23:30,Exploria Stadium,Orlando,Atlanta,1 - 1
+199,15,27/05/2023 23:30,BMO Field,Toronto,D.C.,2 - 1
+200,15,28/05/2023 00:30,Shell Energy Stadium,Houston,Austin,2 - 1
+201,15,28/05/2023 00:30,Allianz Field,Minnesota,Salt Lake,1 - 1
+202,15,28/05/2023 00:30,CITYPARK,St. Louis,Vancouver,3 - 1
+203,15,28/05/2023 01:30,Dick's Sporting Goods Park,Colorado,Cincinnati,0 - 1
+204,15,28/05/2023 02:30,Dignity Health Sports Park,LA,Charlotte,0 - 1
+205,15,28/05/2023 02:30,PayPal Park,San Jose,Dallas,1 - 1
+206,15,28/05/2023 02:30,Lumen Field,Seattle,New York,1 - 0
+207,15,28/05/2023 19:00,Children's Mercy Park,Kansas City,Portland,4 - 1
+208,15,29/05/2023 00:30,GEODIS Park,Nashville,Columbus,3 - 1
+209,16,31/05/2023 23:00,Mercedes-Benz Stadium,Atlanta,New England,3 - 3
+210,16,31/05/2023 23:30,Lower.com Field,Columbus,Colorado,3 - 2
+211,16,31/05/2023 23:30,Audi Field,D.C.,Montréal,2 - 2
+213,16,31/05/2023 23:30,Yankee Stadium,New York City,Cincinnati,1 - 3
+214,16,31/05/2023 23:30,Subaru Park,Philadelphia,Charlotte,1 - 0
+215,16,31/05/2023 23:30,BMO Field,Toronto,Chicago,0 - 0
+212,16,01/06/2023 00:15,DRV PNK Stadium,Miami,New York,0 - 1
+216,16,01/06/2023 00:30,Q2 Stadium,Austin,Minnesota,2 - 1
+218,16,01/06/2023 01:30,America First Field,Salt Lake,LA,2 - 3
+217,16,01/06/2023 01:35,Children's Mercy Park,Kansas City,Dallas,2 - 1
+220,16,01/06/2023 02:30,Lumen Field,Seattle,San Jose,0 - 1
+221,16,01/06/2023 02:30,BC Place,Vancouver,Houston,6 - 2
+219,16,13/07/2023 02:30,BMO Stadium,LAFC,St. Louis,3 - 0
+222,17,03/06/2023 19:30,Yankee Stadium,New York City,New England,0 - 0
+223,17,03/06/2023 20:30,Lumen Field,Seattle,Portland,0 - 0
+224,17,03/06/2023 23:30,TQL Stadium,Cincinnati,Chicago,1 - 0
+226,17,03/06/2023 23:30,DRV PNK Stadium,Miami,D.C.,1 - 2
+227,17,03/06/2023 23:30,Red Bull Arena,New York,Orlando,0 - 3
+228,17,03/06/2023 23:30,Subaru Park,Philadelphia,Montréal,3 - 0
+225,17,04/06/2023 00:09,Lower.com Field,Columbus,Charlotte,4 - 2
+229,17,04/06/2023 00:30,Q2 Stadium,Austin,Salt Lake,1 - 2
+230,17,04/06/2023 00:30,Toyota Stadium,Dallas,Nashville,1 - 2
+231,17,04/06/2023 00:30,Allianz Field,Minnesota,Toronto,1 - 1
+232,17,04/06/2023 00:30,CITYPARK,St. Louis,Houston,3 - 0
+233,17,04/06/2023 01:30,Dick's Sporting Goods Park,Colorado,San Jose,0 - 0
+235,17,04/06/2023 02:30,BC Place,Vancouver,Kansas City,1 - 1
+234,17,08/06/2023 02:30,BMO Stadium,LAFC,Atlanta,0 - 0
+236,18,10/06/2023 23:30,Mercedes-Benz Stadium,Atlanta,D.C.,3 - 1
+237,18,10/06/2023 23:30,Bank of America Stadium,Charlotte,Seattle,3 - 3
+238,18,10/06/2023 23:30,Stade Saputo,Montréal,Minnesota,4 - 0
+239,18,10/06/2023 23:30,Gillette Stadium,New England,Miami,3 - 1
+241,18,10/06/2023 23:30,BMO Field,Toronto,Nashville,1 - 1
+240,18,11/06/2023 00:20,Exploria Stadium,Orlando,Colorado,2 - 0
+242,18,11/06/2023 00:30,Soldier Field,Chicago,Columbus,1 - 2
+243,18,11/06/2023 00:30,Shell Energy Stadium,Houston,LAFC,4 - 0
+244,18,11/06/2023 00:30,Children's Mercy Park,Kansas City,Austin,4 - 1
+245,18,11/06/2023 01:30,America First Field,Salt Lake,New York City,0 - 0
+246,18,11/06/2023 02:30,PayPal Park,San Jose,Philadelphia,2 - 1
+247,18,11/06/2023 02:30,BC Place,Vancouver,Cincinnati,1 - 1
+248,18,11/06/2023 17:00,CITYPARK,St. Louis,LA,1 - 1
+249,18,12/06/2023 02:00,Providence Park,Portland,Dallas,1 - 0
+250,19,17/06/2023 19:30,Yankee Stadium,New York City,Columbus,1 - 1
+251,19,17/06/2023 23:30,Audi Field,D.C.,Salt Lake,1 - 2
+252,19,17/06/2023 23:30,Gillette Stadium,New England,Orlando,3 - 1
+253,19,18/06/2023 00:30,Children's Mercy Park,Kansas City,LAFC,1 - 2
+254,19,18/06/2023 00:30,GEODIS Park,Nashville,St. Louis,3 - 1
+255,19,18/06/2023 02:30,PayPal Park,San Jose,Portland,0 - 0
+256,20,21/06/2023 23:30,Mercedes-Benz Stadium,Atlanta,New York City,2 - 2
+257,20,21/06/2023 23:30,TQL Stadium,Cincinnati,Toronto,3 - 0
+258,20,21/06/2023 23:30,Stade Saputo,Montréal,Nashville,1 - 0
+259,20,21/06/2023 23:30,Red Bull Arena,New York,Charlotte,2 - 2
+260,20,21/06/2023 23:30,Exploria Stadium,Orlando,Philadelphia,2 - 2
+262,20,22/06/2023 00:30,Shell Energy Stadium,Houston,San Jose,4 - 1
+263,20,22/06/2023 00:30,CITYPARK,St. Louis,Salt Lake,1 - 3
+265,20,22/06/2023 02:30,Dignity Health Sports Park,LA,Kansas City,2 - 2
+266,20,22/06/2023 02:30,BMO Stadium,LAFC,Seattle,1 - 0
+267,20,22/06/2023 02:30,Providence Park,Portland,Chicago,1 - 2
+261,20,22/06/2023 03:07,Q2 Stadium,Austin,Dallas,3 - 0
+395,20,10/09/2023 00:30,Allianz Field,Minnesota,New England,
+264,20,28/09/2023 01:30,Dick's Sporting Goods Park,Colorado,Vancouver,
+268,21,24/06/2023 23:30,Bank of America Stadium,Charlotte,Montréal,0 - 0
+269,21,24/06/2023 23:30,Lower.com Field,Columbus,Nashville,2 - 0
+270,21,24/06/2023 23:30,Audi Field,D.C.,Cincinnati,3 - 0
+271,21,24/06/2023 23:30,Gillette Stadium,New England,Toronto,2 - 1
+272,21,24/06/2023 23:30,Red Bull Arena,New York,Atlanta,4 - 0
+273,21,24/06/2023 23:30,Subaru Park,Philadelphia,Miami,4 - 1
+275,21,25/06/2023 00:30,Children's Mercy Park,Kansas City,Chicago,0 - 1
+274,21,25/06/2023 01:30,Q2 Stadium,Austin,Houston,3 - 0
+276,21,25/06/2023 01:30,Dick's Sporting Goods Park,Colorado,LA,0 - 0
+277,21,25/06/2023 01:30,America First Field,Salt Lake,Minnesota,2 - 2
+278,21,25/06/2023 02:30,BMO Stadium,LAFC,Vancouver,2 - 3
+279,21,25/06/2023 02:30,Providence Park,Portland,New York City,1 - 1
+280,21,25/06/2023 02:30,PayPal Park,San Jose,St. Louis,1 - 2
+281,21,25/06/2023 02:30,Lumen Field,Seattle,Orlando,0 - 0
+282,22,01/07/2023 23:30,TQL Stadium,Cincinnati,New England,2 - 2
+283,22,01/07/2023 23:30,Lower.com Field,Columbus,New York,2 - 1
+284,22,01/07/2023 23:30,DRV PNK Stadium,Miami,Austin,1 - 1
+286,22,01/07/2023 23:30,Exploria Stadium,Orlando,Chicago,3 - 1
+287,22,01/07/2023 23:30,BMO Field,Toronto,Salt Lake,0 - 1
+288,22,02/07/2023 00:30,Toyota Stadium,Dallas,LAFC,2 - 0
+289,22,02/07/2023 00:30,Children's Mercy Park,Kansas City,Vancouver,3 - 0
+290,22,02/07/2023 00:30,Allianz Field,Minnesota,Portland,4 - 1
+291,22,02/07/2023 00:30,GEODIS Park,Nashville,D.C.,2 - 0
+292,22,02/07/2023 00:30,CITYPARK,St. Louis,Colorado,2 - 0
+285,22,02/07/2023 01:03,Stade Saputo,Montréal,New York City,0 - 1
+293,22,02/07/2023 02:30,Stanford Stadium,San Jose,LA,2 - 2
+294,22,02/07/2023 02:30,Lumen Field,Seattle,Houston,1 - 0
+295,22,02/07/2023 20:00,Mercedes-Benz Stadium,Atlanta,Philadelphia,2 - 0
+296,23,04/07/2023 23:30,DRV PNK Stadium,Miami,Columbus,2 - 2
+297,23,04/07/2023 23:30,Exploria Stadium,Orlando,Toronto,4 - 0
+298,23,05/07/2023 00:30,Toyota Stadium,Dallas,D.C.,0 - 1
+300,23,05/07/2023 02:30,Rose Bowl,LA,LAFC,2 - 1
+301,23,05/07/2023 23:30,Citi Field,New York City,Charlotte,1 - 1
+299,23,13/07/2023 01:00,Dick's Sporting Goods Park,Colorado,Portland,0 - 0
+397,23,11/09/2023 00:00,Dignity Health Sports Park,LA,St. Louis,
+302,24,08/07/2023 23:30,Bank of America Stadium,Charlotte,Cincinnati,2 - 2
+303,24,08/07/2023 23:30,Lower.com Field,Columbus,New York City,1 - 1
+304,24,08/07/2023 23:30,Audi Field,D.C.,Miami,2 - 2
+305,24,08/07/2023 23:30,Stade Saputo,Montréal,Atlanta,0 - 1
+306,24,08/07/2023 23:30,Red Bull Arena,New York,New England,2 - 1
+307,24,08/07/2023 23:30,BMO Field,Toronto,St. Louis,0 - 1
+308,24,09/07/2023 00:30,Soldier Field,Chicago,Nashville,1 - 0
+309,24,09/07/2023 00:30,Shell Energy Stadium,Houston,Kansas City,2 - 2
+310,24,09/07/2023 00:30,Allianz Field,Minnesota,Austin,1 - 4
+311,24,09/07/2023 01:30,Dick's Sporting Goods Park,Colorado,Dallas,2 - 1
+312,24,09/07/2023 01:30,America First Field,Salt Lake,Orlando,4 - 0
+313,24,09/07/2023 02:30,Dignity Health Sports Park,LA,Philadelphia,3 - 1
+314,24,09/07/2023 02:30,BMO Stadium,LAFC,San Jose,1 - 1
+315,24,09/07/2023 02:30,BC Place,Vancouver,Seattle,2 - 3
+316,25,12/07/2023 23:30,Gillette Stadium,New England,Atlanta,2 - 1
+317,25,12/07/2023 23:30,Red Bull Arena,New York,Cincinnati,1 - 2
+319,25,13/07/2023 00:30,Shell Energy Stadium,Houston,Minnesota,0 - 3
+320,25,13/07/2023 00:30,Children's Mercy Park,Kansas City,Salt Lake,2 - 2
+321,25,13/07/2023 00:30,GEODIS Park,Nashville,Philadelphia,0 - 2
+318,25,13/07/2023 01:44,Soldier Field,Chicago,Montréal,3 - 0
+322,25,13/07/2023 02:30,PayPal Park,San Jose,Seattle,2 - 0
+323,25,13/07/2023 02:30,BC Place,Vancouver,Austin,2 - 1
+324,26,15/07/2023 23:30,Mercedes-Benz Stadium,Atlanta,Orlando,1 - 2
+326,26,15/07/2023 23:30,Stade Saputo,Montréal,Charlotte,2 - 0
+327,26,15/07/2023 23:30,Gillette Stadium,New England,D.C.,4 - 0
+328,26,15/07/2023 23:30,Subaru Park,Philadelphia,New York City,2 - 1
+330,26,16/07/2023 00:30,Soldier Field,Chicago,Toronto,1 - 0
+331,26,16/07/2023 00:30,Allianz Field,Minnesota,LAFC,1 - 1
+325,26,16/07/2023 00:32,TQL Stadium,Cincinnati,Nashville,3 - 1
+332,26,16/07/2023 00:59,CITYPARK,St. Louis,Miami,3 - 0
+329,26,16/07/2023 01:30,Q2 Stadium,Austin,Kansas City,2 - 1
+333,26,16/07/2023 01:30,Dick's Sporting Goods Park,Colorado,Houston,0 - 0
+334,26,16/07/2023 01:30,America First Field,Salt Lake,New York,3 - 1
+335,26,16/07/2023 02:30,Providence Park,Portland,Columbus,3 - 2
+336,26,16/07/2023 02:30,Lumen Field,Seattle,Dallas,1 - 1
+337,26,16/07/2023 02:30,BC Place,Vancouver,LA,4 - 2
+338,27,20/08/2023 23:30,Lower.com Field,Columbus,Cincinnati,
+339,27,20/08/2023 23:30,DRV PNK Stadium,Miami,Charlotte,
+340,27,20/08/2023 23:30,Red Bull Arena,New York,D.C.,
+341,27,20/08/2023 23:30,Citi Field,New York City,Minnesota,
+342,27,20/08/2023 23:30,Subaru Park,Philadelphia,Dallas,
+343,27,20/08/2023 23:30,BMO Field,Toronto,Montréal,
+344,27,21/08/2023 00:30,Soldier Field,Chicago,Orlando,
+345,27,21/08/2023 00:30,Shell Energy Stadium,Houston,Portland,
+346,27,21/08/2023 00:30,GEODIS Park,Nashville,New England,
+347,27,21/08/2023 01:30,CITYPARK,St. Louis,Austin,
+348,27,21/08/2023 02:30,Dignity Health Sports Park,LA,Salt Lake,
+349,27,21/08/2023 02:30,BMO Stadium,LAFC,Colorado,
+350,27,21/08/2023 02:30,Lumen Field,Seattle,Atlanta,
+351,27,21/08/2023 02:30,BC Place,Vancouver,San Jose,
+352,28,26/08/2023 23:30,Mercedes-Benz Stadium,Atlanta,Nashville,
+353,28,26/08/2023 23:30,Bank of America Stadium,Charlotte,LAFC,
+354,28,26/08/2023 23:30,TQL Stadium,Cincinnati,New York City,
+355,28,26/08/2023 23:30,Lower.com Field,Columbus,Toronto,
+356,28,26/08/2023 23:30,Audi Field,D.C.,Philadelphia,
+357,28,26/08/2023 23:30,Stade Saputo,Montréal,New England,
+358,28,26/08/2023 23:30,Red Bull Arena,New York,Miami,
+359,28,26/08/2023 23:30,Exploria Stadium,Orlando,St. Louis,
+360,28,27/08/2023 00:30,Toyota Stadium,Dallas,Austin,
+361,28,27/08/2023 00:30,Children's Mercy Park,Kansas City,San Jose,
+362,28,27/08/2023 01:30,America First Field,Salt Lake,Houston,
+363,28,27/08/2023 02:30,Dignity Health Sports Park,LA,Chicago,
+364,28,27/08/2023 02:30,Providence Park,Portland,Vancouver,
+365,28,27/08/2023 20:30,Allianz Field,Minnesota,Seattle,
+366,29,30/08/2023 23:30,Mercedes-Benz Stadium,Atlanta,Cincinnati,
+367,29,30/08/2023 23:30,Bank of America Stadium,Charlotte,Orlando,
+368,29,30/08/2023 23:30,DRV PNK Stadium,Miami,Nashville,
+369,29,30/08/2023 23:30,Gillette Stadium,New England,New York,
+370,29,30/08/2023 23:30,Yankee Stadium,New York City,Montréal,
+371,29,30/08/2023 23:30,BMO Field,Toronto,Philadelphia,
+372,29,31/08/2023 00:30,Q2 Stadium,Austin,Seattle,
+373,29,31/08/2023 00:30,Soldier Field,Chicago,Vancouver,
+374,29,31/08/2023 00:30,Shell Energy Stadium,Houston,Columbus,
+375,29,31/08/2023 00:30,Allianz Field,Minnesota,Colorado,
+376,29,31/08/2023 00:30,CITYPARK,St. Louis,Dallas,
+377,29,31/08/2023 02:30,Providence Park,Portland,Salt Lake,
+378,29,31/08/2023 02:30,PayPal Park,San Jose,LA,
+379,30,02/09/2023 19:30,Yankee Stadium,New York City,Vancouver,
+380,30,02/09/2023 23:30,TQL Stadium,Cincinnati,Orlando,
+381,30,02/09/2023 23:30,Audi Field,D.C.,Chicago,
+382,30,02/09/2023 23:30,Stade Saputo,Montréal,Columbus,
+383,30,02/09/2023 23:30,Gillette Stadium,New England,Austin,
+384,30,03/09/2023 00:30,Toyota Stadium,Dallas,Atlanta,
+385,30,03/09/2023 00:30,Children's Mercy Park,Kansas City,St. Louis,
+386,30,03/09/2023 00:30,GEODIS Park,Nashville,Charlotte,
+387,30,03/09/2023 01:30,America First Field,Salt Lake,Colorado,
+388,30,03/09/2023 02:30,Dignity Health Sports Park,LA,Houston,
+389,30,03/09/2023 02:30,PayPal Park,San Jose,Minnesota,
+390,30,03/09/2023 02:30,Lumen Field,Seattle,Portland,
+391,30,03/09/2023 23:30,Subaru Park,Philadelphia,New York,
+392,30,04/09/2023 02:00,BMO Stadium,LAFC,Miami,
+393,31,09/09/2023 23:30,Audi Field,D.C.,San Jose,
+394,31,09/09/2023 23:30,DRV PNK Stadium,Miami,Kansas City,
+396,31,10/09/2023 02:30,Providence Park,Portland,LAFC,
+398,32,16/09/2023 19:30,Yankee Stadium,New York City,New York,
+399,32,16/09/2023 23:00,Mercedes-Benz Stadium,Atlanta,Miami,
+400,32,16/09/2023 23:30,Bank of America Stadium,Charlotte,D.C.,
+401,32,16/09/2023 23:30,Stade Saputo,Montréal,Chicago,
+402,32,16/09/2023 23:30,Exploria Stadium,Orlando,Columbus,
+403,32,16/09/2023 23:30,Subaru Park,Philadelphia,Cincinnati,
+404,32,16/09/2023 23:30,BMO Field,Toronto,Vancouver,
+405,32,17/09/2023 00:30,Toyota Stadium,Dallas,Seattle,
+406,32,17/09/2023 00:30,Shell Energy Stadium,Houston,St. Louis,
+407,32,17/09/2023 00:30,Allianz Field,Minnesota,Kansas City,
+408,32,17/09/2023 01:30,Dick's Sporting Goods Park,Colorado,New England,
+409,32,17/09/2023 02:30,BMO Stadium,LAFC,LA,
+410,32,17/09/2023 02:30,PayPal Park,San Jose,Salt Lake,
+411,32,18/09/2023 00:30,Q2 Stadium,Austin,Portland,
+412,33,20/09/2023 23:30,Bank of America Stadium,Charlotte,Philadelphia,
+413,33,20/09/2023 23:30,Lower.com Field,Columbus,Chicago,
+414,33,20/09/2023 23:30,Audi Field,D.C.,Atlanta,
+415,33,20/09/2023 23:30,DRV PNK Stadium,Miami,Toronto,
+416,33,20/09/2023 23:30,Stade Saputo,Montréal,Cincinnati,
+417,33,20/09/2023 23:30,Red Bull Arena,New York,Austin,
+418,33,20/09/2023 23:30,Citi Field,New York City,Orlando,
+419,33,21/09/2023 00:30,Shell Energy Stadium,Houston,Vancouver,
+420,33,21/09/2023 00:30,Children's Mercy Park,Kansas City,Nashville,
+421,33,21/09/2023 00:30,CITYPARK,St. Louis,LAFC,
+422,33,21/09/2023 01:30,Dick's Sporting Goods Park,Colorado,Seattle,
+423,33,21/09/2023 01:30,America First Field,Salt Lake,Dallas,
+424,33,21/09/2023 02:30,Dignity Health Sports Park,LA,Minnesota,
+425,33,21/09/2023 02:30,Providence Park,Portland,San Jose,
+426,34,23/09/2023 23:30,Mercedes-Benz Stadium,Atlanta,Montréal,
+427,34,23/09/2023 23:30,TQL Stadium,Cincinnati,Charlotte,
+428,34,23/09/2023 23:30,Audi Field,D.C.,New York,
+429,34,23/09/2023 23:30,Red Bull Arena,New York City,Toronto,
+430,34,23/09/2023 23:30,Subaru Park,Philadelphia,LAFC,
+431,34,24/09/2023 00:30,Soldier Field,Chicago,New England,
+432,34,24/09/2023 00:30,Toyota Stadium,Dallas,Columbus,
+433,34,24/09/2023 00:30,Children's Mercy Park,Kansas City,Houston,
+434,34,24/09/2023 00:30,Allianz Field,Minnesota,St. Louis,
+435,34,24/09/2023 01:30,America First Field,Salt Lake,Vancouver,
+436,34,24/09/2023 02:30,Providence Park,Portland,Colorado,
+437,34,24/09/2023 02:30,PayPal Park,San Jose,Nashville,
+438,34,24/09/2023 23:30,Exploria Stadium,Orlando,Miami,
+439,34,25/09/2023 01:30,Q2 Stadium,Austin,LA,
+440,35,30/09/2023 23:30,Lower.com Field,Columbus,Philadelphia,
+441,35,30/09/2023 23:30,DRV PNK Stadium,Miami,New York City,
+442,35,30/09/2023 23:30,Gillette Stadium,New England,Charlotte,
+443,35,30/09/2023 23:30,Red Bull Arena,New York,Chicago,
+444,35,30/09/2023 23:30,Exploria Stadium,Orlando,Montréal,
+445,35,30/09/2023 23:30,BMO Field,Toronto,Cincinnati,
+446,35,01/10/2023 00:30,Shell Energy Stadium,Houston,Dallas,
+447,35,01/10/2023 00:30,Allianz Field,Minnesota,San Jose,
+448,35,01/10/2023 00:30,GEODIS Park,Nashville,Seattle,
+449,35,01/10/2023 00:30,CITYPARK,St. Louis,Kansas City,
+450,35,01/10/2023 01:30,Dick's Sporting Goods Park,Colorado,Austin,
+451,35,01/10/2023 02:30,Dignity Health Sports Park,LA,Portland,
+452,35,01/10/2023 02:30,BC Place,Vancouver,D.C.,
+453,35,02/10/2023 00:00,BMO Stadium,LAFC,Salt Lake,
+454,36,04/10/2023 23:30,Bank of America Stadium,Charlotte,Toronto,
+455,36,04/10/2023 23:30,TQL Stadium,Cincinnati,New York,
+456,36,04/10/2023 23:30,Stade Saputo,Montréal,Houston,
+457,36,04/10/2023 23:30,Gillette Stadium,New England,Columbus,
+458,36,04/10/2023 23:30,Subaru Park,Philadelphia,Atlanta,
+459,36,05/10/2023 00:30,Q2 Stadium,Austin,D.C.,
+460,36,05/10/2023 00:30,Soldier Field,Chicago,Miami,
+461,36,05/10/2023 00:30,Toyota Stadium,Dallas,Colorado,
+462,36,05/10/2023 00:30,GEODIS Park,Nashville,Orlando,
+463,36,05/10/2023 02:30,BMO Stadium,LAFC,Minnesota,
+464,36,05/10/2023 02:30,Lumen Field,Seattle,LA,
+465,36,05/10/2023 02:30,BC Place,Vancouver,St. Louis,
+466,37,07/10/2023 23:30,Mercedes-Benz Stadium,Atlanta,Columbus,
+467,37,07/10/2023 23:30,Audi Field,D.C.,New York City,
+468,37,07/10/2023 23:30,DRV PNK Stadium,Miami,Cincinnati,
+469,37,07/10/2023 23:30,Stade Saputo,Montréal,Portland,
+470,37,07/10/2023 23:30,Red Bull Arena,New York,Toronto,
+471,37,07/10/2023 23:30,Exploria Stadium,Orlando,New England,
+472,37,07/10/2023 23:30,Subaru Park,Philadelphia,Nashville,
+473,37,08/10/2023 00:30,Q2 Stadium,Austin,LAFC,
+474,37,08/10/2023 00:30,Soldier Field,Chicago,Charlotte,
+475,37,08/10/2023 00:30,Toyota Stadium,Dallas,San Jose,
+476,37,08/10/2023 00:30,Shell Energy Stadium,Houston,Colorado,
+477,37,08/10/2023 00:30,Allianz Field,Minnesota,LA,
+478,37,08/10/2023 01:30,America First Field,Salt Lake,Kansas City,
+479,37,08/10/2023 02:30,Lumen Field,Seattle,Vancouver,
+480,38,21/10/2023 22:00,Bank of America Stadium,Charlotte,Miami,
+481,38,21/10/2023 22:00,TQL Stadium,Cincinnati,Atlanta,
+482,38,21/10/2023 22:00,Lower.com Field,Columbus,Montréal,
+483,38,21/10/2023 22:00,GEODIS Park,Nashville,New York,
+484,38,21/10/2023 22:00,Gillette Stadium,New England,Philadelphia,
+485,38,21/10/2023 22:00,Red Bull Arena,New York City,Chicago,
+486,38,21/10/2023 22:00,BMO Field,Toronto,Orlando,
+487,38,22/10/2023 01:00,Dick's Sporting Goods Park,Colorado,Salt Lake,
+488,38,22/10/2023 01:00,Children's Mercy Park,Kansas City,Minnesota,
+489,38,22/10/2023 01:00,Dignity Health Sports Park,LA,Dallas,
+490,38,22/10/2023 01:00,Providence Park,Portland,Houston,
+491,38,22/10/2023 01:00,PayPal Park,San Jose,Austin,
+492,38,22/10/2023 01:00,CITYPARK,St. Louis,Seattle,
+493,38,22/10/2023 01:00,BC Place,Vancouver,LAFC,
