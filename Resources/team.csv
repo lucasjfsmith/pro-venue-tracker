@@ -94,7 +94,7 @@ team_id,team,venue_id,league_id
 93,Philadeliphia Flyers,29,3
 94,Minnesota Wild,81,3
 95,Milwaukee Brewers,82,4
-96,Los Angeles Angles,83,4
+96,Los Angeles Angels,83,4
 97,St. Louis Cardinals,84,4
 98,Arizona Diamondbacks,85,4
 99,New York Mets,86,4
@@ -115,7 +115,7 @@ team_id,team,venue_id,league_id
 114,Baltimore Orioles,101,4
 115,San Diego Padres,102,4
 116,Pittsburgh Pirates,103,4
-117,Cleveland Guadians,104,4
+117,Cleveland Guardians,104,4
 118,Toronto Blue Jays,105,4
 119,Seattle Mariners,106,4
 120,Minnesota Twins,107,4
