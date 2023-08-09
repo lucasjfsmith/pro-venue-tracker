@@ -1,0 +1,133 @@
+venue_id,venue_name,venue_city,venue_state,venue_country,Street Address,City,State,Zip,,,venue_capacity,next_event_id
+1,American Airlines Center,Dallas,Texas,us,2500 Victory Avenue, Dallas,TX,75219,,,,0
+2,Amway Center,Orlando,Florida,us,Hughey Avenue, Orlando,FL,32801,,,,0
+3,AT&T Center,San Antonio,Texas,us,,San Antonio,TX,78219,,,,0
+4,Ball Arena,Denver,Colorado,us,1000 Chopper Circle, Denver,CO,80204,,,,0
+5,Barclays Center,New York,New York,us,620 Atlantic Avenue, New York,NY,11217,,,,0
+6,Capital One Arena,Washington,District of Columbia,us,601 F Street Northwest, Washington,DC,20004,,,,0
+7,Chase Center,San Francisco,California,us,1 Warriors Way, San Francisco,CA,94158,,,18064,0
+8,Crypto.com Arena,Los Angeles,California,us,1111 Figueroa Street, Los Angeles,CA,90015,,,,0
+9,FedExForum,Memphis,Tennessee,us,191 Beale Street, Memphis,TN,38103,,,,0
+10,Fiserv Forum,Milwaukee,Wisconsin,us,1111 North Vel R. Phillips Avenue, Milwaukee,WI,53203,,,,0
+11,Footprint Center,Phoenix,Arizona,us,East Jefferson Street, Phoenix,AZ,85004,,,,0
+12,Miami-Dade Arena,Miami,Florida,us,601 Biscayne Boulevard, Miami,FL,33132,,,19600,0
+13,Gainbridge Fieldhouse,Indianapolis,Indiana,us,125 South Pennsylvania Street, Indianapolis,IN,46204,,,,0
+14,Golden 1 Center,Sacramento,California,us,500 L Street, Sacramento,CA,95814,,,,0
+15,Little Caesars Arena,Detroit,Michigan,us,2645 Woodward Avenue, Detroit,MI,48201,,,,0
+16,Madison Square Garden,New York,New York,us,4 Pennsylvania Plaza, New York,NY,10001,,,,0
+17,Moda Center,Portland,Oregon,us,North Multnomah Street, Portland,OR,97240,,,,0
+18,Paycom Center,Oklahoma City,Oklahoma,us,100 West Reno Avenue, Oklahoma City,OK,73102,,,,0
+19,Rocket Mortgage FieldHouse,Cleveland,Ohio,us,1 Huron Road East, Cleveland,OH,44115,,,,0
+20,Scotiabank Arena,Old Toronto,Ontario,ca,40 Bay Street, Old Toronto,ON,M5J2J2,,,,0
+21,Smoothie King Center,New Orleans,Louisiana,us,2500 Howard Avenue, New Orleans,LA,70012,,,,0
+22,Spectrum Center,Charlotte,North Carolina,us,333 East Trade Street, Charlotte,NC,28202,,,,0
+23,State Farm Arena,Atlanta,Georgia,us,1 State Farm Drive, Atlanta,GA,30303,,,,0
+24,Target Center,Minneapolis,Minnesota,us,North 6th Street, Minneapolis,MN,55401,,,,0
+25,TD Garden,Boston,Massachusetts,us,100 Legends Way, Boston,MA,2114,,,,0
+26,Toyota Center,Houston,Texas,us,1510 Polk Street, Houston,TX,77010,,,,0
+27,United Center,Chicago,Illinois,us,1901 West Madison Street, Chicago,IL,60612,,,,0
+28,Vivint Arena,Salt Lake City,Utah,us,South Temple, Salt Lake City,UT,84180,,,,0
+29,Wells Fargo Center,Philadelphia,Pennsylvania,us,Zinkoff Boulevard, Philadelphia,PA,19112,,,,0
+30,Allegiant Stadium,Las Vegas,Nevada,us,3333 Al Davis Way, Las Vegas,NV,89118,,,65000,0
+31,Arrowhead Stadium,Kansas City,Missouri,us,1 Arrowhead Drive, Kansas City,MO,64129,,,,0
+32,AT&T Stadium,Arlington,Texas,us,900 East Randol Mill Road, Arlington,TX,76011,,,,0
+33,Bank of America Stadium,Charlotte,North Carolina,us,800 South Mint Street, Charlotte,NC,28202,,,,0
+34,Caesar's Superdome,New Orleans,Louisiana,us,1500 Sugar Bowl Drive, New Orleans,LA,70113,,,,0
+35,Empower Field,Denver,Colorado,us,1701 Mile High Stadium Circle, Denver,CO,80204,,,,0
+36,FedExField,Landover,Maryland,us,1600 Sean Taylor Road, Landover,MD,20785,,,,0
+37,FirstEnergy Stadium,Cleveland,Ohio,us,100 Alfred Lerner Way, Cleveland,OH,44113,,,,0
+38,Ford Field,Detroit,Michigan,us,Brush Street, Detroit,MI,48226,,,,0
+39,Gillette Stadium,Foxborough,Massachusetts,us,Patriot Place, Foxborough,MA,2071,,,,0
+40,Hard Rock Stadium,Lake Lucerne,Florida,us,105, Lake Lucerne,FL,33056,,,,0
+41,Acrisure Stadium,Pittsburgh,Pennsylvania,us,North Shore Drive, Pittsburgh,PA,15290,,,,0
+42,Highmark Blue Cross Blue Shield Stadium,Town of Orchard Park,New York,us,1 Bills Drive, Orchard Park,NY,14127,,,,0
+43,Lambeau Field,Green Bay,Wisconsin,us,1265 Lombardi Avenue, Green Bay,WI,54304,,,,0
+44,Levi’s Stadium,Santa Clara,California,us,4900 Marie P. DeBartolo Way, Santa Clara,CA,95054,,,,0
+45,Lincoln Financial Field,Philadelphia,Pennsylvania,us,South Darien Street, Philadelphia,PA,19148,,,,0
+46,Lucas Oil Stadium,Indianapolis,Indiana,us,West Henry Street, Indianapolis,IN,46225,,,,0
+47,Lumen Field,Seattle,Washington,us,800 Occidental Avenue South, Seattle,WA,98134,,,,0
+48,M&T Bank Stadium,Baltimore,Maryland,us,1101 Russell Street, Baltimore,MD,21230,,,,0
+49,Mercedes-Benz Stadium,Atlanta,Georgia,us,1414 Andrew Young International Boulevard, Atlanta,GA,30313,,,,0
+50,MetLife Stadium,East Rutherford,New Jersey,us,Road D, East Rutherford,NJ,7072,,,,0
+51,Nissan Stadium,Nashville-Davidson,Tennessee,us,Victory Avenue, Nashville-Davidson,TN,37213,,,,0
+52,NRG Stadium,Houston,Texas,us,1 NRG Parkway, Houston,TX,77054,,,,0
+53,Paycor Stadium,Cincinnati,Ohio,us,1 West Pete Rose Way, Cincinnati,OH,45203,,,,0
+54,Raymond James Stadium,Tampa,Florida,us,West Tampa Bay Boulevard, Tampa,FL,33607,,,,0
+55,SoFi Stadium,Inglewood,California,us,1001 Champion Drive, Inglewood,CA,90301,,,,0
+56,Soldier Field,Chicago,Illinois,us,425 East McFetridge Drive, Chicago,IL,60605,,,,0
+57,State Farm Stadium,Glendale,Arizona,us,1 West Cardinals Drive, Glendale,AZ,85305,,,,0
+58,TIAA Bank Field,Jacksonville,Florida,us,1 Gator Bowl Boulevard, Jacksonville,FL,32202,,,,0
+59,US Bank Stadium,Minneapolis,Minnesota,us,401 Chicago Avenue South, Minneapolis,MN,55415,,,,0
+60,Amalie Arena,Tampa,Florida,us,401 Channelside Drive, Tampa,FL,33602,,,20000,0
+61,Centre Bell,Montreal,Quebec,ca,Place des Canadiens, Montreal,QC,H3C1B4,,,,0
+62,Bridgestone Arena,Nashville-Davidson,Tennessee,us,501 6th Avenue South, Nashville-Davidson,TN,37203,,,,0
+63,Canada Life Centre,Winnipeg,Manitoba,ca,300 Portage Avenue, Winnipeg,MB,R3B2B9,,,,0
+64,Canadian Tire Centre,Ottawa,Ontario,ca,1000 Palladium Drive, Ottawa,ON,K2V1A5,,,,0
+65,Climate Pledge Arena,Seattle,Washington,us,334 1st Avenue North, Seattle,WA,98109,,,,0
+66,Enterprise Center,St. Louis,Missouri,us,1401 Clark Avenue, St. Louis,MO,63103,,,,0
+67,FLA Live Arena,Sunrise,Florida,us,1 Northwest 137th Way, Sunrise,FL,33323,,,,0
+68,Gila River Arena,Glendale,Arizona,us,9400 West Maryland Avenue, Glendale,AZ,85305,,,,0
+69,Honda Center,Anaheim,California,us,2695 East Katella Avenue, Anaheim,CA,92806,,,,0
+70,KeyBank Center,Buffalo,New York,us,Washington Street, Buffalo,NY,14203,,,19070,0
+71,Nationwide Arena,Columbus,Ohio,us,200 West Nationwide Boulevard, Columbus,OH,43215,,,,0
+72,Carter-Finley Stadium,Raleigh,North Carolina,us,E. Stephen Stroud Way, Raleigh,NC,27607,,,,0
+73,PPG Paints Arena,Pittsburgh,Pennsylvania,us,1001 Fifth Avenue, Pittsburgh,PA,15262,,,,0
+74,Prudential Center,Newark,New Jersey,us,25 Lafayette Street, Newark,NJ,7102,,,,0
+75,Rogers Arena,Vancouver,British Columbia,ca,800 Griffiths Way, Vancouver,BC,V6B6G1,,,,0
+76,Rogers Place,Edmonton,Alberta,ca,10220 104 Avenue NW, Edmonton,AB,T5J4Y8,,,20734,0
+77,SAP Center at San Jose,San Jose,California,us,525 West Santa Clara Street, San Jose,CA,95113,,,,0
+78,Scotiabank Saddledome,Calgary,Alberta,ca,555 Saddledome Rise SE, Calgary,AB,T2G2W1,,,,0
+79,T-Mobile Arena,Paradise,Nevada,us,Frank Sinatra Drive, Paradise,NV,89158,,,,0
+80,UBS Arena,Village of Floral Park,New York,us,2400 Hempstead Turnpike, Village of Floral Park,NY,11001,,,,0
+81,Xcel Energy Center,Saint Paul,Minnesota,us,7th Street West, Saint Paul,MN,55155,,,,0
+82,American Family Field,Milwaukee,Wisconsin,us,1 Brewers Way, Milwaukee,WI,53214,,,41900,0
+83,Angel Stadium of Anaheim,Anaheim,California,us,2000 East Gene Autry Way, Anaheim,CA,92806,,,45517,0
+84,Busch Stadium,St. Louis,Missouri,us,700 Clark Avenue, St. Louis,MO,63101,,,,0
+85,Chase Field,Phoenix,Arizona,us,East Jefferson Street, Phoenix,AZ,85004,,,,0
+86,Citi Field,New York,New York,us,41 Seaver Way, New York,NY,11368,,,,0
+87,Citizens Bank Park,Philadelphia,Pennsylvania,us,Pattison Avenue, Philadelphia,PA,19145,,,,0
+88,Comerica Park,Detroit,Michigan,us,Brush Street, Detroit,MI,48226,,,,0
+89,Coors Field,Denver,Colorado,us,2001 Blake Street, Denver,CO,80205,,,,0
+90,Dodger Stadium,Los Angeles,California,us,1000 Vin Scully Avenue, Los Angeles,CA,90012,,,,0
+91,Fenway Park,Boston,Massachusetts,us,4 Jersey Street, Boston,MA,2115,,,37755,0
+92,Globe Life Field,Arlington,Texas,us,Cowboys Way, Arlington,TX,76011,,,,0
+93,Great American Ball Park,Cincinnati,Ohio,us,Ohio River Trail, Cincinnati,OH,45202,,,,0
+94,Guaranteed Rate Field,Chicago,Illinois,us,333 West 35th Street, Chicago,IL,60616,,,,0
+95,Kauffman Stadium,Kansas City,Missouri,us,1 Royal Way, Kansas City,MO,64129,,,,0
+96,LoanDepot Park,Miami,Florida,us,Northwest 15th Avenue, Miami,FL,33128,,,,0
+97,Minute Maid Park,Houston,Texas,us,501 Crawford Street, Houston,TX,77004,,,,0
+98,Nationals Park,Washington,District of Columbia,us,1500 South Capitol Street Southeast, Washington,DC,20590,,,,0
+99,RingCentral Coliseum,Oakland,California,us,7000 Coliseum Way, Oakland,CA,94621,,,,0
+100,Oracle Park,San Francisco,California,us,24 Willie Mays Plaza, San Francisco,CA,94107,,,,0
+101,Oriole Park,Baltimore,Maryland,us,555 Russell Street, Baltimore,MD,21230,,,,0
+102,Petco Park,San Diego,California,us,100 Park Boulevard, San Diego,CA,92101,,,,0
+103,PNC Park,Pittsburgh,Pennsylvania,us,Federal Street, Pittsburgh,PA,15222,,,,0
+104,Progressive Field,Cleveland,Ohio,us,2401 Ontario Street, Cleveland,OH,44115,,,,0
+105,Rogers Centre,Old Toronto,Ontario,ca,1 Blue Jays Way, Old Toronto,ON,M5V1J1,,,,0
+106,T-Mobile Park,Seattle,Washington,us,South Royal Brougham Way, Seattle,WA,98104,,,,0
+107,Target Field,Minneapolis,Minnesota,us,1 Twins Way, Minneapolis,MN,55403,,,39021,0
+108,Tropicana Field,Saint Petersburg,Florida,us,Pinellas Trail, Saint Petersburg,FL,33701,,,,0
+109,Truist Park,,Georgia,us,755 Battery Avenue Southeast, The Battery Atlanta,GA,30339,,,,0
+110,Wrigley Field,Chicago,Illinois,us,1060 West Addison Street, Chicago,IL,60613,,,41649,0
+111,Yankee Stadium,New York,New York,us,1 East 161st Street, New York,NY,10451,,,,0
+112,Allianz Field,Saint Paul,Minnesota,us,Simpson Street, Saint Paul,MN,55104,,,,0
+113,Audi Field,Washington,District of Columbia,us,100 Potomac Avenue Southwest, Washington,DC,20024,,,,0
+114,BMO Stadium,Los Angeles,California,us,South Coliseum Drive, Los Angeles,CA,90037,,,,0
+115,BC Place,Vancouver,British Columbia,ca,777 Pacific Boulevard, Vancouver,BC,V6B,,,54500,0
+116,BMO Field,Old Toronto,Ontario,ca,Princes' Boulevard, Old Toronto,ON,M6K3C3,,,,0
+117,Children's Mercy Park,Kansas City,Kansas,us,Sporting Way, Kansas City,KS,66109,,,,0
+118,Dick's Sporting Goods Park,Commerce City,Colorado,us,6000 Victory Way, Commerce City,CO,80022,,,,0
+119,Dignity Health Sports Park Soccer Stadium,Carson,California,us,18400 South Avalon Boulevard, Carson,CA,90747,,,,0
+120,DRV PNK Stadium,Fort Lauderdale,Florida,us,Northwest 55th Street, Fort Lauderdale,FL,33309,,,,0
+121,Barker Stadium,,Florida,us,Fairbanks Avenue, Winter Park,FL,32789,,,,0
+122,Lower.com Field,Columbus,Ohio,us,96 Columbus Crew Way, Columbus,OH,43215,,,20011,0
+123,PayPal Park,San Jose,California,us,1123 Coleman Avenue, San Jose,CA,95110,,,18000,0
+124,Shell Energy Stadium,Houston,Texas,us,Walker Street, Houston,TX,77003,,,,0
+125,Providence Park,Portland,Oregon,us,Southwest 18th Avenue, Portland,OR,97205,,,,0
+126,North Building,Austin,Texas,us,Calle Norte, Austin,TX,78758,,,,0
+127,Red Bull Arena,Harrison,New Jersey,us,Cape May Street Northwest, Harrison,NJ,7029,,,25000,0
+128,America First Field,Sandy,Utah,us,Rimando Way, Sandy,UT,84070,,,,0
+129,Stade Saputo,Montreal,Quebec,ca,Rue Viau, Montreal,QC,H1V3J3,,,,0
+130,Subaru Park,Chester,Pennsylvania,us,Seaport Drive, Chester,PA,19013,,,,0
+131,Toyota Stadium,Frisco,Texas,us,9200 World Cup Way, Frisco,TX,75034,,,,0
+132,TQL Stadium,Cincinnati,Ohio,us,Lowe Drive, Cincinnati,OH,45203,,,,0
