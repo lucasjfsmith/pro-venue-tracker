@@ -131,3 +131,4 @@ venue_id,venue_name,venue_city,venue_state,venue_country,venue_address,venue_lat
 130,Subaru Park,Chester,Pennsylvania,us,"Chester Waterfront - East Coast Greenway, Chester, PA 19013, United States of America",39.832909400000005,-75.37847387081464,,0
 131,Toyota Stadium,Frisco,Texas,us,"9200 World Cup Way, Frisco, TX 75034, United States of America",33.1549042,-96.83526928863985,,0
 132,TQL Stadium,Cincinnati,Ohio,us,"Barton Drive, Cincinnati, OH 45210, United States of America",39.1114126,-84.52229446750526,,0
+133,CityPark,St. Louis,Missouri,us,"Pine Street, St. Louis, MO 63103, United States of America",38.6313076,-90.20955664232676,22500.0,0

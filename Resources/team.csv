@@ -30,12 +30,12 @@ team_id,team,venue_id,league_id
 29,Utah Jazz,28,1
 30,Philadelphia 76ers,29,1
 31,Las Vegas Raiders,30,2
-32,Kansas City Cheifs,31,2
+32,Kansas City Chiefs,31,2
 33,Dallas Cowboys,32,2
 34,Carolina Panthers,33,2
 35,New Orleans Saints,34,2
 36,Denver Broncos,35,2
-37,Washington Football Team,36,2
+37,Washington Commanders,36,2
 38,Cleveland Browns,37,2
 39,Detroit Lions,38,2
 40,New England Patriots,39,2
@@ -64,7 +64,7 @@ team_id,team,venue_id,league_id
 63,Tampa Bay Lightning,60,3
 64,Dallas Stars,1,3
 65,Colorado Avalanche,4,3
-66,Montreal Canadiens,61,3
+66,Montréal Canadiens,61,3
 67,Nashville Predators,62,3
 68,Winnipeg Jets,63,3
 69,Ottawa Senators,64,3
@@ -72,7 +72,7 @@ team_id,team,venue_id,league_id
 71,Seattle Kraken,65,3
 72,Los Angeles Kings,8,3
 73,St. Louis Blues,66,3
-74,Flordia Panthers,67,3
+74,Florida Panthers,67,3
 75,Arizona Coyotes,68,3
 76,Anaheim Ducks,69,3
 77,Buffalo Sabres,70,3
@@ -91,7 +91,7 @@ team_id,team,venue_id,league_id
 90,Vegas Golden Knights,79,3
 91,New York Islanders,80,3
 92,Chicago Blackhawks,27,3
-93,Philadeliphia Flyers,29,3
+93,Philadelphia Flyers,29,3
 94,Minnesota Wild,81,3
 95,Milwaukee Brewers,82,4
 96,Los Angeles Angels,83,4
@@ -150,3 +150,5 @@ team_id,team,venue_id,league_id
 149,FC Dallas,131,5
 150,FC Cincinnati,132,5
 151,New York City FC,111,5
+152,Charlotte FC,33,5
+153,St. Louis City SC,133,5

@@ -1,8 +1,8 @@
 /*DROP TABLE events;*/
-DROP TABLE team;
-DROP TABLE stadium;
-DROP TABLE league;
-DROP TABLE venue;
+DROP TABLE team CASCADE;
+DROP TABLE league CASCADE;
+DROP TABLE venue CASCADE;
+DROP TABLE event CASCADE;
 
 
 
@@ -37,18 +37,13 @@ CREATE TABLE team(
 );
 
 
-/*CREATE TABLE events(
-	event_id VARCHAR PRIMARY KEY,
+CREATE TABLE event (
+	event_id SERIAL PRIMARY KEY,
+	home_id INTEGER,
+	FOREIGN KEY (home_id) REFERENCES team(team_id),
+	away_id INTEGER,
+	FOREIGN KEY (away_id) REFERENCES team(team_id),
 	venue_id INTEGER,
 	FOREIGN KEY (venue_id) REFERENCES venue(venue_id),
-	event_date DATE,
-	event_time TIME,
-	home_team_id INTEGER,
-	FOREIGN KEY (home_team_id) REFERENCES team(team_id),
-	away_team_id INTEGER,
-	FOREIGN KEY (away_team_id) REFERENCES team(team_id),
-	event_occured BOOLEAN DEFAULT False NOT NULL
+	event_timestamp_cst TIMESTAMP
 );
-
-SELECT *
-FROM events;*/

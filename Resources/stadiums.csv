@@ -30,12 +30,12 @@ Chicago Bulls,NBA,East,41.880556,-87.674167
 Utah Jazz,NBA,West,40.768333,-111.901111
 Philadelphia 76ers,NBA,East,39.901111,-75.171944
 Las Vegas Raiders,NFL,AFC West,36.090833,-115.183611
-Kansas City Cheifs,NFL,AFC West,39.048889,-94.483889
+Kansas City Chiefs,NFL,AFC West,39.048889,-94.483889
 Dallas Cowboys,NFL,NFC East,32.747778,-97.092778
 Carolina Panthers,NFL,NFC South,35.225833,-80.852778
 New Orleans Saints,NFL,NFC South,29.950833,-90.081111
 Denver Broncos,NFL,AFC West,39.7439,-105.0201
-Washington Football Team,NFL,NFC East,38.907778,-76.864444
+Washington Commanders,NFL,NFC East,38.907778,-76.864444
 Cleveland Browns,NFL,AFC North,41.506111,-81.699444
 Detroit Lions,NFL,NFC North,42.34,-83.045556
 New England Patriots,NFL,AFC East,42.091,-71.264
@@ -64,7 +64,7 @@ Minnesota Vikings,NFL,NFC North,44.974,-93.258
 Tampa Bay Lightning,NHL,Atlantic,27.9427,-82.4518
 Dallas Stars,NHL,Central,32.790556,-96.810278
 Colorado Avalanche,NHL,Central,39.7487,-105.0076
-Montreal Canadiens,NHL,Atlantic,45.496111,-73.569444
+Montréal Canadiens,NHL,Atlantic,45.496111,-73.569444
 Nashville Predators,NHL,Central,36.159167,-86.778611
 Winnipeg Jets,NHL,Central,49.892778,-97.143611
 Ottawa Senators,NHL,Atlantic,45.2969,-75.9268
@@ -72,7 +72,7 @@ Washington Capitals,NHL,Metropolitan,38.8982,-77.0209
 Seattle Kraken,NHL,Pacific,47.622,-122.354
 Los Angeles Kings,NHL,Pacific,34.043056,-118.267222
 St. Louis Blues,NHL,Central,38.626667,-90.2025
-Flordia Panthers,NHL,Atlantic,26.158333,-80.325556
+Florida Panthers,NHL,Atlantic,26.158333,-80.325556
 Arizona Coyotes,NHL,Central,33.5321,-112.2612
 Anaheim Ducks,NHL,Pacific,33.807778,-117.876667
 Buffalo Sabres,NHL,Atlantic,42.875,-78.876389
@@ -91,10 +91,10 @@ Boston Bruins,NHL,Atlantic,42.366303,-71.062228
 Vegas Golden Knights,NHL,Pacific,36.102778,-115.178333
 New York Islanders,NHL,Metropolitan,40.712094,-73.727157
 Chicago Blackhawks,NHL,Central,41.880556,-87.674167
-Philadeliphia Flyers,NHL,Metropolitan,39.901111,-75.171944
+Philadelphia Flyers,NHL,Metropolitan,39.901111,-75.171944
 Minnesota Wild,NHL,Central,44.944722,-93.101111
 Milwaukee Brewers,MLB,NL Central,43.028333,-87.971111
-Los Angeles Angles,MLB,AL West,33.800278,-117.882778
+Los Angeles Angels,MLB,AL West,33.800278,-117.882778
 St. Louis Cardinals,MLB,NL Central,38.6225,-90.193056
 Arizona Diamondbacks,MLB,NL West,33.445278,-112.066944
 New York Mets,MLB,NL East,40.756944,-73.845833
@@ -115,7 +115,7 @@ San Francisco Giants,MLB,NL West,37.778611,-122.389167
 Baltimore Orioles,MLB,AL East,39.283889,-76.621667
 San Diego Padres,MLB,NL West,32.7073,-117.1566
 Pittsburgh Pirates,MLB,NL Central,40.446944,-80.005833
-Cleveland Guadians,MLB,AL Central,41.495833,-81.685278
+Cleveland Guardians,MLB,AL Central,41.495833,-81.685278
 Toronto Blue Jays,MLB,AL East,43.641389,-79.389167
 Seattle Mariners,MLB,AL West,47.591,-122.333
 Minnesota Twins,MLB,AL Central,44.981667,-93.278333
@@ -150,3 +150,5 @@ Philadelphia Union,MLS,Eastern Conference,39.832222,-75.378889
 FC Dallas,MLS,Western Conference,33.154444,-96.835278
 FC Cincinnati,MLS,Eastern Conference,39.111389,-84.522222
 New York City FC,MLS,Eastern Conference,40.829167,-73.926389
+Charlotte FC,MLS,Eastern Conference,35.225833,-80.852778
+St. Louis City SC,MLS,Eastern Conference,38.6312,-90.2105
