@@ -27,200 +27,55 @@ let overlayMaps = {
 
 L.control.layers(null, overlayMaps).addTo(map);
 
-let colors = {
-    NBA: "orange",
-    NFL: "blue",
-    MLB: "red",
-    NHL: "white",
-    MLS: "green"
-}
+d3.json("api/venues").then(venues => {
 
-d3.json("/api/teams").then(teams => {
+  for (const venue in venues) {
+    let teams = venues[venue];
 
-    for (let i = 0; i < teams.length; i++) {
+    let latlng = [teams[0].venue_lat, teams[0].venue_lon];
+    let marker = L.marker(latlng);
+    let venue_html = `<h1>${teams[0].venue_name}</h1><br><p>${teams[0].venue_address}</p>`;
 
-        let latlng = [teams[i].venue_lat, teams[i].venue_lon]
+    let leagues = [];
 
-        let marker = L.marker(latlng);
+    for (let i = 0; i<teams.length; i++) {
+      console.log(teams[i]);
+      let team_html = `<h2>${teams[i].league} Team: ${teams[i].team}</h2><br>`;
 
-        marker.bindPopup(`<h2>${teams[i].venue_name}</h2><br>` +
-                         `<h3>${teams[i].league} Team: ${teams[i].team}</h3><hr>` +
-                         `<p>${teams[i].venue_address}</p>`
-        );
+      let event_html = ``
+      if (teams[i].league == "NBA") {
+        event_html = `NBA Schedule not available.`;
+      } else {
+        event_html = `<h3>Next Event: ${teams[i].next_event[0]} on ${teams[i].next_event[1]}</h3>`;
+      };
 
-        marker.addTo(layers[teams[i].league]);
+      venue_html = venue_html + team_html + event_html + '<hr>';
+      leagues.push(teams[i].league)
     };
+
+    marker.bindPopup(venue_html);
+
+    for (let i = 0; i<leagues.length; i++) {
+      marker.addTo(layers[leagues[i]]);
+    };
+  };
 });
 
-// Fetch the data from the '/api/teams' route
-fetch('/api/teams')
-  .then(response => response.json())
-  .then(data => {
-    // Extract the venue states and count their occurrences
-    const stateCounts = {};
-    data.forEach(team => {
-      const state = team.venue_state;
-      stateCounts[state] = (stateCounts[state] || 0) + 1;
-    });
-    // Prepare the data for the bar chart
-    const labels = Object.keys(stateCounts);
-    const counts = Object.values(stateCounts);
-    // Create bar chart
-    const ctx = document.getElementById('barChart').getContext('2d');
-    const barChart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: labels,
-        datasets: [
-          {
-            label: 'Number of Venues',
-            data: counts,
-            backgroundColor: 'lightgreen',
-            borderColor: 'green',
-            borderWidth: 1
-          }
-        ]
-      },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        aspectRatio: 1,
-        scales: {
-          x: {
-            display: true,
-            title: {
-              display: true,
-              text: 'States',
-              font: {
-                size: 16,
-                weight: 'bold'
-              }
-            }
-          },
-          y: {
-            display: true,
-            title: {
-              display: true,
-              text: 'Total',
-              font: {
-                size: 16,
-                weight: 'bold'
-              }
-            },
-            ticks: {
-              beginAtZero: true,
-              stepSize: 1
-            }
-          }
-        },
-        plugins: {
-          title: {
-            display: true,
-            text: 'Number of Venues in each State',
-            font: {
-              size: 22,
-              weight: 'bold'
-            }
-          },
-          datalabels: {
-            anchor: 'end',
-            align: 'top',
-            formatter: function (value) {
-              return value;
-            },
-            color: 'black',
-            font: {
-              weight: 'bold'
-            },
-            display: 'auto'
-          }
-        }
-      }
-    })
-  });
 
-// d3.json('/api/teams').then(data => {
-//   // Extract the venue states and count their occurrences
-//   let stateCounts = {};
-//   data.forEach(team => {
-//     let state = team.venue_state;
-//     stateCounts[state] = (stateCounts[state] || 0) + 1;
-//   });
 
-//   // Prepare the data for the bar chart
-//   let labels = Object.keys(stateCounts);
-//   let counts = Object.values(stateCounts);
-//   // Create bar chart
-//   let ctx = document.getElementById('barChart').getContext('2d');
+// d3.json("/api/teams").then(teams => {
 
-//   let barChart = new Chart(ctx, {
-//     type: 'bar',
-//     data: {
-//       labels: labels,
-//       datasets: [
-//         {
-//           label: 'Number of Venues',
-//           data: counts,
-//           backgroundColor: 'lightgreen',
-//           borderColor: 'green',
-//           borderWidth: 1
-//         }
-//       ]
-//     },
-//     options: {
-//       responsive: true,
-//       maintainAspectRatio: false,
-//       aspectRatio: 1,
-//       scales: {
-//         x: {
-//           display: true,
-//           title: {
-//             display: true,
-//             text: 'States',
-//             font: {
-//               size: 16,
-//               weight: 'bold'
-//             }
-//           }
-//         },
-//         y: {
-//           display: true,
-//           title: {
-//             display: true,
-//             text: 'Total',
-//             font: {
-//               size: 16,
-//               weight: 'bold'
-//             }
-//           },
-//           ticks: {
-//             beginAtZero: true,
-//             stepSize: 1
-//           }
-//         }
-//       },
-//       plugins: {
-//         title: {
-//           display: true,
-//           text: 'Number of Venues in each State',
-//           font: {
-//             size: 22,
-//             weight: 'bold'
-//           }
-//         },
-//         datalabels: {
-//           anchor: 'end',
-//           align: 'top',
-//           formatter: function (value) {
-//             return value;
-//           },
-//           color: 'black',
-//           font: {
-//             weight: 'bold'
-//           },
-//           display: 'auto'
-//         }
-//       }
-//     }
-//     })
+//     for (let i = 0; i < teams.length; i++) {
+
+//         let latlng = [teams[i].venue_lat, teams[i].venue_lon]
+
+//         let marker = L.marker(latlng);
+
+//         marker.bindPopup(`<h2>${teams[i].venue_name}</h2><br>` +
+//                          `<h3>${teams[i].league} Team: ${teams[i].team}</h3><hr>` +
+//                          `<p>${teams[i].venue_address}</p>`
+//         );
+
+//         marker.addTo(layers[teams[i].league]);
+//     };
 // });
