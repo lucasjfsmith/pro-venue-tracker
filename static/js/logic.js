@@ -46,7 +46,7 @@ d3.json("api/venues").then(venues => {
       if (teams[i].league == "NBA") {
         event_html = `NBA Schedule not available.`;
       } else {
-        event_html = `<h3>Next Event: ${teams[i].next_event[0]} on ${teams[i].next_event[1]}</h3>`;
+        event_html = `<h3>Next Event: ${teams[i].next_event[0]} vs. ${teams[i].next_event[1]}</h3>`;
       };
 
       venue_html = venue_html + team_html + event_html + '<hr>';
