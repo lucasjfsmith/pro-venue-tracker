@@ -17,26 +17,9 @@
         var map = L.map("map").setView([32.7480, -97.0934], 15);
         L.tileLayer('https://api.maptiler.com/maps/satellite/{z}/{x}/{y}.jpg?key=JkO68VM4LorjZPFPbK38').addTo(map);
 
-        //Standard Marker
-        // var marker = L.marker([38.34, -98.37],{
-        //     draggable: true,
-        //     title: "basic marker"
-        // }).addTo(map).bindPopup("You clicked me!")
-
-        //Circle Marker
-        // var cicleMarker = L.circleMarker([38.34, -98.37],{
-        //     radius: 20,
-        //     stroke: true,
-        //     color: 'red',
-        //     opacity: 1,
-        //     weight: 1,
-        //     fill: true,
-        //     fillColor: 'pink',
-        //     fillOpacity: 0.3
-        // }).addTo(map);
         
         //NFL Marker
-        var nflIcon = L.icon({
+        let nflIcon = L.icon({
             iconUrl: 'images/nfl.png',
             iconSize: [64, 64],
             iconAnchor: [0, 64],
@@ -44,7 +27,7 @@
         });
 
         //NBA Marker
-        var nbaIcon = L.icon({
+        let nbaIcon = L.icon({
             iconUrl: 'images/nba.png',
             iconSize: [64, 64],
             iconAnchor: [0, 64],
@@ -52,7 +35,7 @@
         });
 
         //NHL Marker
-        var nhlIcon = L.icon({
+        let nhlIcon = L.icon({
             iconUrl: 'images/nhl.png',
             iconSize: [64, 64],
             iconAnchor: [0, 64],
@@ -60,7 +43,7 @@
         });
 
         //MLB Marker
-        var mlbIcon = L.icon({
+        let mlbIcon = L.icon({
             iconUrl: 'images/mlb.png',
             iconSize: [64, 64],
             iconAnchor: [0, 64],
@@ -68,7 +51,7 @@
         });
 
         //MLS Marker
-        var mlsIcon = L.icon({
+        let mlsIcon = L.icon({
             iconUrl: 'images/mls.png',
             iconSize: [64, 64],
             iconAnchor: [0, 64],
