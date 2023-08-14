@@ -6,6 +6,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask, jsonify, render_template
 from api_key import postgres_pw
 import datetime as dt
+import pytz 
 
 engine = create_engine(f'postgresql+psycopg2://postgres:{postgres_pw}@localhost:5432/project_3')
 
@@ -112,16 +113,19 @@ def venue():
                                             filter(Event.event_timestamp_cst > today).\
                                             order_by(Event.event_timestamp_cst).limit(1).all()
                 
-                team["next_event"] = [next_event[0][0]]
+                event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " CST"
+
+
+                team["next_event"] = [event_time]
                 away_id = next_event[0][1]
 
                 away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
                 team["next_event"].append(away_team)
 
             else:
-                team["next_event"] = ["NBA Schedule not yet released."]
+                team["next_event"] = "NBA Schedule not yet released."
 
-
+    session.close()
 
     return jsonify(venues_dict)
 
