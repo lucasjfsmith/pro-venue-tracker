@@ -60,22 +60,3 @@ d3.json("api/venues").then(venues => {
     };
   };
 });
-
-
-
-// d3.json("/api/teams").then(teams => {
-
-//     for (let i = 0; i < teams.length; i++) {
-
-//         let latlng = [teams[i].venue_lat, teams[i].venue_lon]
-
-//         let marker = L.marker(latlng);
-
-//         marker.bindPopup(`<h2>${teams[i].venue_name}</h2><br>` +
-//                          `<h3>${teams[i].league} Team: ${teams[i].team}</h3><hr>` +
-//                          `<p>${teams[i].venue_address}</p>`
-//         );
-
-//         marker.addTo(layers[teams[i].league]);
-//     };
-// });
