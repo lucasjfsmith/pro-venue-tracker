@@ -27,31 +27,31 @@ let overlayMaps = {
 
 let icons = {
   NBA: L.icon({
-    iconUrl: 'images/nba.png',
+    iconUrl: 'static/js/images/nba.png',
     iconSize: [64, 64],
     iconAnchor: [0, 64],
     popupAnchor: [63, -64]
   }),
   NFL: L.icon({
-    iconUrl: 'images/nfl.png',
+    iconUrl: 'static/js/images/nfl.png',
     iconSize: [64, 64],
     iconAnchor: [0, 64],
     popupAnchor: [63, -64]
   }),
   MLB: L.icon({
-    iconUrl: 'icons8-basketball-50.png',
+    iconUrl: 'static/js/images/mlb.png',
     iconSize: [32, 32],
     iconAnchor: [0, 64],
     popupAnchor: [63, -64]
   }),
   NHL: L.icon({
-    iconUrl: 'images/nhl.png',
+    iconUrl: 'static/js/images/nhl.png',
     iconSize: [64, 64],
     iconAnchor: [0, 64],
     popupAnchor: [63, -64]
   }),
   MLS: L.icon({
-    iconUrl: 'images/mls.png',
+    iconUrl: 'static/js/images/mls.png',
     iconSize: [64, 64],
     iconAnchor: [0, 64],
     popupAnchor: [63, -64]
@@ -66,11 +66,6 @@ d3.json("api/venues").then(venues => {
     let teams = venues[venue];
 
     let latlng = [teams[0].venue_lat, teams[0].venue_lon];
-
-    let marker = L.marker(latlng);
-    if (teams.length == 1) {
-      marker = L.marker(latlng, {icon: icons[teams[0].league]})
-    };
 
     let venue_html = `<h1>${teams[0].venue_name}</h1><br><p>${teams[0].venue_address}</p>`;
 
@@ -91,9 +86,9 @@ d3.json("api/venues").then(venues => {
       leagues.push(teams[i].league)
     };
 
-    marker.bindPopup(venue_html);
-
     for (let i = 0; i<leagues.length; i++) {
+      let marker = L.marker(latlng, {icon: icons[teams[i].league]});
+      marker.bindPopup(venue_html);
       marker.addTo(layers[leagues[i]]);
     };
   };
