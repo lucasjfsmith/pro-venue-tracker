@@ -1,7 +1,5 @@
 # # Sport-Venue-Tracker
 
-![Stadium](https://github.com/lucasjfsmith/pro-venue-tracker/blob/df4d314a25c2e4dbc46a42a7448337663635c3b3/Resources/Custom%20Icons/stadium-icon.jpg)
-
 Create a Flask application designed to enhance your experience of attending professional sports events in the NFL, MLB, NBA, NHL, and MLS. Our goal is to create an interactive map that showcases the venues of all teams in these leagues, allowing you to track and explore their locations. With our advanced features, you will be able to filter the map by specific criteria, such as league or sport, to customize your viewing experience.
 
 ### Technical Roadmap:
