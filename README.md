@@ -1,36 +1,17 @@
-# pro-venue-tracker
-An application that displays and tracks your attendance at professional sports venue within the NFL, MLB, NBA, NHL, and MLS
+# # Sport-Venue-Tracker
+![Alt Text](https://icon-library.com/icon/stadium-icon-16.html.html)
 
-### Goal
-Create an interactive map that shows markers for each team’s venue in the MLB, NFL, NBA, NHL, and MLS (https://www.kaggle.com/datasets/logandonaldson/sports-stadium-locations). The map will allow users to filter by criteria such as:
-*	Ever attended
-*	League/sport
-Additionally, users will be able to click on any stadium marker and see:
-*	An image of the venue
-*	When the next game will be played at the venue
-*	If the user has attended
-*	Venue capacity (?)
+Create a Flask application designed to enhance your experience of attending professional sports events in the NFL, MLB, NBA, NHL, and MLS. Our goal is to create an interactive map that showcases the venues of all teams in these leagues, allowing you to track and explore their locations. With our advanced features, you will be able to filter the map by specific criteria, such as league or sport, to customize your viewing experience.
 
-## Technical Roadmap
+### Technical Roadmap:
+Data Wrangling and Cleaning - Python:
+We begin by leveraging the extensive Kaggle Sports Stadium Locations dataset (https://www.kaggle.com/datasets/logandonaldson/sports-stadium-locations), extracting latitude and longitude information. We then utilize Geoapify's Places API to fetch detailed venue data, including team name, latitude/longitude, and venue address. By combining all the relevant data, we will create a comprehensive and structured dataframe for processing.
 
-### Data wrangling and cleaning – Python
-Use latitude and longitude from Kaggle sports stadium locations dataset (https://www.kaggle.com/datasets/logandonaldson/sports-stadium-locations) to pull information on the venue from Geoapify’s Places API. Between these two sources we will pull the following data:
-*	Team name
-*	Latitude/longitude
-*	Venue address
-*	Venue capacity
-Kim/Luke are looking for APIs for the following information:
-*	Next home game
-*	Image of the venue
-*	Combine all relevant data into a DataFrame
+### MLB Batting and Pitching Data:
+To enhance the application's functionality, we incorporate MLB batting and pitching data. This rich dataset, sourced from Baseball-Reference, allows us to analyze and derive valuable insights.  By utilizing this dataset, we can provide users with additional information about the performance of teams and players during specific games or seasons.
 
-### Data storage – TBD
-*	Still need to decide between Postgres and MongoDB
+### Map Build - JavaScript:
+With the Flask API set up, we proceed to build an interactive map using JavaScript. By leveraging Leaflet and GeoJSON technologies, we can seamlessly integrate the relevant data provided by the Flask API. Users can now explore the map, filter by specific criteria, and view information about any stadium they click on. By implementing a Flask API in Python, we create a user-friendly application interface that presents a map, indicating each team's venue with distinguishable sport icons.
 
-### Flask API – Python
-*	Create a Flask API (see lesson plan 10-Advanced-SQL day 3)
-
-### Map Build – JavaScript
-*	Accept data using flask API
-*	Use Leaflet/GeoJSON to generate map
-*	Still need to determine a new JS library for the team to use
+### Machine Learning Model:
+As an added feature, we incorporate a machine learning model to predict home run percentage based on the batting and pitching data obtained from Baseball-Reference. By analyzing historical data and training the model, users can obtain insights into the potential home run percentages based on the teams and venues.
