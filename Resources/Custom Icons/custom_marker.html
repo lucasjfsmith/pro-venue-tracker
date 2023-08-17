@@ -21,52 +21,53 @@
         //NFL Marker
         let nflIcon = L.icon({
             iconUrl: 'images/nfl.png',
-            iconSize: [64, 64],
-            iconAnchor: [0, 64],
-            popupAnchor: [63, -64]
+            iconSize: [30, 30],
+            iconAnchor: [0, 30],
+            popupAnchor: [29, -30]
         });
 
         //NBA Marker
         let nbaIcon = L.icon({
             iconUrl: 'images/nba.png',
-            iconSize: [64, 64],
-            iconAnchor: [0, 64],
-            popupAnchor: [56, -58]
+            iconSize: [30, 30],
+            iconAnchor: [0, 15],
+            popupAnchor: [25, -27]
         });
 
         //NHL Marker
         let nhlIcon = L.icon({
             iconUrl: 'images/nhl.png',
-            iconSize: [64, 64],
-            iconAnchor: [0, 64],
-            popupAnchor: [52, -64]
+            iconSize: [30, 30],
+            iconAnchor: [0, 15],
+            popupAnchor: [22, -29]
         });
 
         //MLB Marker
         let mlbIcon = L.icon({
             iconUrl: 'images/mlb.png',
-            iconSize: [64, 64],
-            iconAnchor: [0, 64],
-            popupAnchor: [54, -54]
+            iconSize: [30, 30],
+            iconAnchor: [0, 30],
+            popupAnchor: [22, -26]
         });
 
         //MLS Marker
         let mlsIcon = L.icon({
             iconUrl: 'images/mls.png',
-            iconSize: [64, 64],
-            iconAnchor: [0, 64],
-            popupAnchor: [54, -58]
+            iconSize: [30, 30],
+            iconAnchor: [0, 30],
+            popupAnchor: [25, -27],
+            draggable:'true'
         });
 
-        L.marker([32.7480, -97.0934], {icon: nflIcon}).addTo(map).bindPopup("Football!!!");
+        // L.marker([32.7480, -97.0934], {icon: nflIcon}).addTo(map).bindPopup("Football!!!");
 
-        L.marker([32.752, -97.0934], {icon: nbaIcon}).addTo(map).bindPopup("Basketball!!!");
+        // L.marker([32.7480, -97.0934], {icon: nbaIcon}).addTo(map).bindPopup("Basketball!!!");
 
-        L.marker([32.756, -97.0934], {icon: nhlIcon}).addTo(map).bindPopup("Hockey!!!");
+        L.marker([32.7480, -97.0934], {icon: nhlIcon}).addTo(map).bindPopup("Hockey!!!");
 
-        L.marker([32.760, -97.0934], {icon: mlbIcon}).addTo(map).bindPopup("Baseball!!!");
+        L.marker([33.4484, -112.0740], {icon: mlbIcon}).addTo(map).bindPopup("Baseball!!!");
 
-        L.marker([32.766, -97.0934], {icon: mlsIcon}).addTo(map).bindPopup("Soccer!!!");
+        L.marker([40.7128, -74.0060], {icon: mlsIcon}).addTo(map).bindPopup("Soccer!!!");
     </script>
 </body>
 </html>

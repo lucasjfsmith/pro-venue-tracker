@@ -28,33 +28,33 @@ let overlayMaps = {
 let icons = {
   NBA: L.icon({
     iconUrl: 'static/js/images/nba.png',
-    iconSize: [64, 64],
-    iconAnchor: [0, 64],
-    popupAnchor: [63, -64]
+    iconSize: [30, 30],
+    iconAnchor: [0, 15],
+    popupAnchor: [25, -27]
   }),
   NFL: L.icon({
     iconUrl: 'static/js/images/nfl.png',
-    iconSize: [64, 64],
-    iconAnchor: [0, 64],
-    popupAnchor: [63, -64]
+    iconSize: [30, 30],
+    iconAnchor: [0, 30],
+    popupAnchor: [29, -30]
   }),
   MLB: L.icon({
     iconUrl: 'static/js/images/mlb.png',
-    iconSize: [32, 32],
-    iconAnchor: [0, 64],
-    popupAnchor: [63, -64]
+    iconSize: [30, 30],
+    iconAnchor: [0, 15],
+    popupAnchor: [22, -26]
   }),
   NHL: L.icon({
     iconUrl: 'static/js/images/nhl.png',
-    iconSize: [64, 64],
-    iconAnchor: [0, 64],
-    popupAnchor: [63, -64]
+    iconSize: [30, 30],
+    iconAnchor: [0, 15],
+    popupAnchor: [22, -29]
   }),
   MLS: L.icon({
     iconUrl: 'static/js/images/mls.png',
-    iconSize: [64, 64],
-    iconAnchor: [0, 64],
-    popupAnchor: [63, -64]
+    iconSize: [30, 30],
+    iconAnchor: [0, 15],
+    popupAnchor: [25, -27]
   })
 };
 
