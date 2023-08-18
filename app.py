@@ -6,7 +6,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask, jsonify, render_template
 from api_key import postgres_pw
 import datetime as dt
-import pytz 
+import pickle
 
 engine = create_engine(f'postgresql+psycopg2://postgres:{postgres_pw}@localhost:5432/project_3')
 
