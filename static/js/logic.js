@@ -93,3 +93,10 @@ d3.json("api/venues").then(venues => {
     };
   };
 });
+
+// function predictions() {
+//   // INSERT CODE TO RENDER PREDICTION DATA
+//   d3.json("api/predictions").then(game_predictions => {
+    
+//   });
+// };
