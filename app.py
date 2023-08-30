@@ -4,13 +4,16 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask import Flask, jsonify, render_template
-from api_key import postgres_pw
+# from api_key import postgres_pw
 import datetime as dt
 import pandas as pd
 import pickle
 import re
+import os
 
-engine = create_engine(f'postgresql+psycopg2://postgres:{postgres_pw}@localhost:5432/project_3')
+# engine = create_engine(f'postgresql+psycopg2://postgres:{postgres_pw}@localhost:5432/project_3')
+postgres_pw = os.environ.get('postgres_pw')
+engine = create_engine(f'postgresql+psycopg2://lucasjfsmith:{postgres_pw}@dpg-cjn76gsdfrcc73d02qag-a./venue_tracker')
 
 Base = automap_base()
 
