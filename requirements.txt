@@ -1,7 +1,5 @@
 Gunicorn
 Flask
-jsonify
-render_template
 psycopg2
 sqlalchemy
 automap_base
