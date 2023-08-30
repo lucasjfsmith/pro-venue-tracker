@@ -1,2 +1,15 @@
-Flask
 Gunicorn
+Flask
+jsonify
+render_template
+psycopg2
+sqlalchemy
+automap_base
+Session
+create_engine
+func
+datetime
+pandas
+pickle
+re
+os
