@@ -4,6 +4,4 @@ psycopg2
 sqlalchemy
 datetime
 pandas
-pickle
-re
 os
