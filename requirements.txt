@@ -2,10 +2,6 @@ Gunicorn
 Flask
 psycopg2
 sqlalchemy
-automap_base
-Session
-create_engine
-func
 datetime
 pandas
 pickle
