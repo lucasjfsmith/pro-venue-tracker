@@ -87,6 +87,8 @@ def venue():
                                         filter(Event.timestamp > today).\
                                         order_by(Event.timestamp).limit(1).all()
             
+            print(next_event[0])
+
             event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
 
 
