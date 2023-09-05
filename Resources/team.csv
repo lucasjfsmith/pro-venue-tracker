@@ -13,7 +13,7 @@ team_id,team,venue_id,league_id
 12,Phoenix Suns,11,1
 13,Miami Heat,12,1
 14,Indiana Pacers,13,1
-15,Sacremento Kings,14,1
+15,Sacramento Kings,14,1
 16,Detroit Pistons,15,1
 17,New York Knicks,16,1
 18,Portland Trail Blazers,17,1
@@ -64,7 +64,7 @@ team_id,team,venue_id,league_id
 63,Tampa Bay Lightning,60,3
 64,Dallas Stars,1,3
 65,Colorado Avalanche,4,3
-66,Montréal Canadiens,61,3
+66,Montreal Canadiens,61,3
 67,Nashville Predators,62,3
 68,Winnipeg Jets,63,3
 69,Ottawa Senators,64,3
