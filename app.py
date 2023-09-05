@@ -79,25 +79,25 @@ def venue():
 
     for venue in venues_dict:
         for team in venues_dict[venue]:
-            if team["league"] != "NBA":
-                home_id = team["team_id"]
+            # if team["league"] != "NBA":
+            home_id = team["team_id"]
 
-                next_event = session.query(Event.event_timestamp_cst, Event.away_id).\
-                                            filter(Event.home_id == home_id).\
-                                            filter(Event.event_timestamp_cst > today).\
-                                            order_by(Event.event_timestamp_cst).limit(1).all()
-                
-                event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " CST"
+            next_event = session.query(Event.timestamp, Event.away_id).\
+                                        filter(Event.home_id == home_id).\
+                                        filter(Event.timestamp > today).\
+                                        order_by(Event.timestamp).limit(1).all()
+            
+            event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
 
 
-                team["next_event"] = [event_time]
-                away_id = next_event[0][1]
+            team["next_event"] = [event_time]
+            away_id = next_event[0][1]
 
-                away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
-                team["next_event"].append(away_team)
+            away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
+            team["next_event"].append(away_team)
 
-            else:
-                team["next_event"] = "NBA Schedule not yet released."
+            # else:
+            #     team["next_event"] = "NBA Schedule not yet released."
 
     session.close()
 
