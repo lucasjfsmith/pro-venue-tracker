@@ -97,7 +97,7 @@ def venue():
                 team["next_event"].append(away_team)
 
             else:
-                team["next_event"] = "MLS season has concluded."
+                team["next_event"] = "Season has concluded."
 
     session.close()
 
@@ -141,18 +141,18 @@ def test():
 
     today = dt.date.today()
     team_error = []
-    
+
     for venue in venues_dict:
         for team in venues_dict[venue]:
+                
+            home_id = team["team_id"]
+
+            next_event = session.query(Event.timestamp, Event.away_id).\
+                                        filter(Event.home_id == home_id).\
+                                        filter(Event.timestamp > today).\
+                                        order_by(Event.timestamp).limit(1).all()
             
             try:
-                home_id = team["team_id"]
-
-                next_event = session.query(Event.timestamp, Event.away_id).\
-                                            filter(Event.home_id == home_id).\
-                                            filter(Event.timestamp > today).\
-                                            order_by(Event.timestamp).limit(1).all()
-
                 event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
 
 
@@ -164,7 +164,9 @@ def test():
             
             except:
                 team_error.append(team['team'])
-                team["next_event"] = 'Error pulling event.'
+                team["next_event"] = 'Regular season has ended.'
+
+    print(team_error)
 
     session.close()
 
