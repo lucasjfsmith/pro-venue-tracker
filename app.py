@@ -151,7 +151,8 @@ def test():
                                         filter(Event.timestamp > today).\
                                         order_by(Event.timestamp).limit(1).all()
             
-            print(team + '\n' + next_event)
+            print(team)
+            print(next_event)
 
             event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
 
