@@ -140,25 +140,31 @@ def test():
             venues_dict[venue_name].append(team_dict)
 
     today = dt.date.today()
-
+    team_error = []
+    
     for venue in venues_dict:
         for team in venues_dict[venue]:
             
-            home_id = team["team_id"]
+            try:
+                home_id = team["team_id"]
 
-            next_event = session.query(Event.timestamp, Event.away_id).\
-                                        filter(Event.home_id == home_id).\
-                                        filter(Event.timestamp > today).\
-                                        order_by(Event.timestamp).limit(1).all()
+                next_event = session.query(Event.timestamp, Event.away_id).\
+                                            filter(Event.home_id == home_id).\
+                                            filter(Event.timestamp > today).\
+                                            order_by(Event.timestamp).limit(1).all()
 
-            event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
+                event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
 
 
-            team["next_event"] = [event_time]
-            away_id = next_event[0][1]
+                team["next_event"] = [event_time]
+                away_id = next_event[0][1]
 
-            away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
-            team["next_event"].append(away_team)
+                away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
+                team["next_event"].append(away_team)
+            
+            except:
+                team_error.append(team['team'])
+                team["next_event"] = 'Error pulling event.'
 
     session.close()
 
