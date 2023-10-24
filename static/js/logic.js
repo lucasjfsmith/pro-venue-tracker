@@ -77,7 +77,7 @@ d3.json("api/venues").then(venues => {
 
       let event_html = ``
       if (teams[i].next_event == 'Unavailable') {
-        event_html = 'Next event currently unavailable.';
+        event_html = '<h3>Next event currently unavailable.</h3>';
       } else {
         event_html = `<h3>Next Event: ${teams[i].next_event[0]} vs. ${teams[i].next_event[1]}</h3>`;
       };

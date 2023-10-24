@@ -103,72 +103,72 @@ def venue():
 
     return jsonify(venues_dict)
 
-@app.route("/api/test")
-def test():
-    # Create our session (link) from Python to the DB
-    session = Session(engine)
+# @app.route("/api/test")
+# def test():
+#     # Create our session (link) from Python to the DB
+#     session = Session(engine)
 
-    """Return a list of all teams"""
-    # Query all teams with league joined
-    results = session.query(Team.team, League.league,
-                            Venue.venue_name, Venue.venue_state,
-                            Venue.venue_address, Team.team_id,
-                            Venue.venue_lat, Venue.venue_lon).\
-                                filter(Team.league_id == League.league_id).\
-                                filter(Team.venue_id == Venue.venue_id).all()
+#     """Return a list of all teams"""
+#     # Query all teams with league joined
+#     results = session.query(Team.team, League.league,
+#                             Venue.venue_name, Venue.venue_state,
+#                             Venue.venue_address, Team.team_id,
+#                             Venue.venue_lat, Venue.venue_lon).\
+#                                 filter(Team.league_id == League.league_id).\
+#                                 filter(Team.venue_id == Venue.venue_id).all()
 
-    venues_dict = {}
+#     venues_dict = {}
 
-    for result in results:
-        team_dict = {}
-        team_dict["team"] = result[0]
-        team_dict["league"] = result[1]
-        team_dict["venue_name"] = result[2]
-        team_dict["venue_state"] = result[3]
-        team_dict["venue_address"] = result[4]
-        team_dict["team_id"] = int(result[5])
-        team_dict["venue_lat"] = float(result[6])
-        team_dict["venue_lon"] = float(result[7])
+#     for result in results:
+#         team_dict = {}
+#         team_dict["team"] = result[0]
+#         team_dict["league"] = result[1]
+#         team_dict["venue_name"] = result[2]
+#         team_dict["venue_state"] = result[3]
+#         team_dict["venue_address"] = result[4]
+#         team_dict["team_id"] = int(result[5])
+#         team_dict["venue_lat"] = float(result[6])
+#         team_dict["venue_lon"] = float(result[7])
 
-        venue_name = result[2]
+#         venue_name = result[2]
 
-        if venue_name not in venues_dict.keys():
-            venues_dict[venue_name] = [team_dict]
-        else:
-            venues_dict[venue_name].append(team_dict)
+#         if venue_name not in venues_dict.keys():
+#             venues_dict[venue_name] = [team_dict]
+#         else:
+#             venues_dict[venue_name].append(team_dict)
 
-    today = dt.date.today()
-    team_error = []
+#     today = dt.date.today()
+#     team_error = []
 
-    for venue in venues_dict:
-        for team in venues_dict[venue]:
+#     for venue in venues_dict:
+#         for team in venues_dict[venue]:
                 
-            home_id = team["team_id"]
+#             home_id = team["team_id"]
 
-            next_event = session.query(Event.timestamp, Event.away_id).\
-                                        filter(Event.home_id == home_id).\
-                                        filter(Event.timestamp > today).\
-                                        order_by(Event.timestamp).limit(1).all()
+#             next_event = session.query(Event.timestamp, Event.away_id).\
+#                                         filter(Event.home_id == home_id).\
+#                                         filter(Event.timestamp > today).\
+#                                         order_by(Event.timestamp).limit(1).all()
             
-            try:
-                event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
+#             try:
+#                 event_time = next_event[0][0].strftime("%Y-%m-%d %I:%M %p") + " EST"
 
 
-                team["next_event"] = [event_time]
-                away_id = next_event[0][1]
+#                 team["next_event"] = [event_time]
+#                 away_id = next_event[0][1]
 
-                away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
-                team["next_event"].append(away_team)
+#                 away_team = session.query(Team.team).filter(Team.team_id == away_id)[0][0]
+#                 team["next_event"].append(away_team)
             
-            except:
-                team_error.append(team['team'])
-                team["next_event"] = 'Regular season has ended.'
+#             except:
+#                 team_error.append(team['team'])
+#                 team["next_event"] = 'Regular season has ended.'
 
-    print(len(team_error))
+#     print(len(team_error))
 
-    session.close()
+#     session.close()
 
-    return jsonify(venues_dict)
+#     return jsonify(venues_dict)
     
 if __name__ == '__main__':
     app.run(debug=True)
