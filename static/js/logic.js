@@ -60,7 +60,7 @@ let icons = {
 
 L.control.layers(null, overlayMaps).addTo(map);
 
-d3.json("api/venues").then(venues => {
+d3.json("/api/venues").then(venues => {
 
   for (const venue in venues) {
     let teams = venues[venue];
