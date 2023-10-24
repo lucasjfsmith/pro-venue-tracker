@@ -117,9 +117,29 @@ def test():
                                 filter(Team.league_id == League.league_id).\
                                 filter(Team.venue_id == Venue.venue_id).all()
     
-    print(results[0])
+    print(len(results))
 
-    return jsonify(results)
+    venues_dict = {}
+
+    for result in results:
+        team_dict = {}
+        team_dict["team"] = result[0]
+        team_dict["league"] = result[1]
+        team_dict["venue_name"] = result[2]
+        team_dict["venue_state"] = result[3]
+        team_dict["venue_address"] = result[4]
+        team_dict["team_id"] = int(result[5])
+        team_dict["venue_lat"] = float(result[6])
+        team_dict["venue_lon"] = float(result[7])
+
+        venue_name = result[2]
+
+        if venue_name not in venues_dict.keys():
+            venues_dict[venue_name] = [team_dict]
+        else:
+            venues_dict[venue_name].append(team_dict)
+
+    return jsonify(venues_dict)
     
 if __name__ == '__main__':
     app.run(debug=True)
