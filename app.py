@@ -97,7 +97,7 @@ def venue():
                 team["next_event"].append(away_team)
             
             except:
-                team["next_event"] = 'Regular season has ended.'
+                team["next_event"] = 'Unavailable'
 
     session.close()
 

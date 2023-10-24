@@ -76,8 +76,8 @@ d3.json("api/venues").then(venues => {
       let team_html = `<h2>${teams[i].league} Team: ${teams[i].team}</h2><br>`;
 
       let event_html = ``
-      if (teams[i].league == "NBA") {
-        event_html = `NBA Schedule not available.`;
+      if (teams[i].next_event == 'Unavailable') {
+        event_html = 'Next event currently unavailable.';
       } else {
         event_html = `<h3>Next Event: ${teams[i].next_event[0]} vs. ${teams[i].next_event[1]}</h3>`;
       };
